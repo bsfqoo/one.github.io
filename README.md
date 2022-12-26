@@ -16,6 +16,9 @@
     - [必备应用](#必备应用)
       - [Windows](#windows)
       - [Mac](#mac)
+    - [系统应用](#系统应用)
+    - [WinPE](#winpe)
+    - [操作系统](#操作系统)
     - [聊天客户端](#聊天客户端)
     - [压缩](#压缩)
     - [个性化](#个性化)
@@ -53,19 +56,46 @@
 
 ### 必备应用
 
- #### Windows
+  #### Windows
 - [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon]
 - [Listary](https://www.listary.com/) - 一款实用的搜索工具。
 - [Everything](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹。 ![Freeware][Freeware Icon]
 - [Quicker](https://getquicker.net/) - 一个 “超级” 启动器 它不仅用可以帮您打开软件或文件, 更重要的是可以启动各类“操作”。
 - [Snipaste](https://zh.snipaste.com/) - 一款效率极高、功能非常丰富的截图+贴图小工具。
-- []() - 
-- []() - 
+- [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
+- [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 - []() - 
 - []() - 
 
- #### Mac
+  #### Mac
+- [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
+- [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
+- [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
+- [Downie 4](https://software.charliemonroe.net/downie/) - 一个超级易于使用的视频下载工具。
+- [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
+- [Meta]() - 一款Mac平台的音乐元标签数据编辑工具。
+
+### 系统应用
+
+- [SpaceSniffe](http://www.uderzo.it/main_products/space_sniffer/index.html) - 一款以块状树平铺直观展现磁盘空间占用情况的绿色软件。
+- [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
+- [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
+- [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 - []() - 
+
+### WinPE
+
+- [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
+- [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。
+- [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
+- [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
+- [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
+- [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
+
+### 操作系统
+- [ITELLYOU] [旧](https://msdn.itellyou.cn) [新](https://next.itellyou.cn) - 提供可靠的原版软件。
+- [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
+- [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 
 
 
