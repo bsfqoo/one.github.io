@@ -48,7 +48,7 @@
 ## 应用程序
 
 ### 音频
-- [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon][Windows Icon]
+- [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon] ![Windows][Windows Icon]
 - [Audacity](http://audacityteam.org/) - 免费，开放的资源，用于录制和编辑音频的跨平台软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
