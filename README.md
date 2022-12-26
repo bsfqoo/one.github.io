@@ -57,6 +57,7 @@
 ### 必备应用
 
   #### Windows
+
 - [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon]
 - [Listary](https://www.listary.com/) - 一款实用的搜索工具。
 - [Everything](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹。 ![Freeware][Freeware Icon]
@@ -68,6 +69,7 @@
 - []() - 
 
   #### Mac
+
 - [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
 - [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
 - [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
@@ -93,9 +95,11 @@
 - [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
 
 ### 操作系统
-- [ITELLYOU] [旧](https://msdn.itellyou.cn) [新](https://next.itellyou.cn) - 提供可靠的原版软件。
+
+- [ITELLYOU](https://next.itellyou.cn) - 提供可靠的原版软件。 [旧](https://msdn.itellyou.cn)
 - [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 - [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
+
 
 
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
