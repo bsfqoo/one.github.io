@@ -48,8 +48,19 @@
 ## 应用程序
 
 ### 必备应用
-- [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon] 
+#### Windows
+- [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon]
 - [Listary](https://www.listary.com/) - 一款实用的搜索工具。 ![Freeware][Freeware Icon]
+- [Everything](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹。 ![Freeware][Freeware Icon]
+- [Quicker](https://getquicker.net/) - 一个 “超级” 启动器 它不仅用可以帮您打开软件或文件, 更重要的是可以启动各类“操作”。
+- [Snipaste](https://zh.snipaste.com/) - 一款效率极高、功能非常丰富的截图+贴图小工具。
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+
+
+
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且美观的操作体验。 ![Freeware][Freeware Icon]
