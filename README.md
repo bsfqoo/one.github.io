@@ -4,14 +4,14 @@
 
 <a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
-> Windows上优质&精选的最佳应用程序及工具列表。
+> Windows&Mac上优质&精选的最佳应用程序及工具列表。
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是Open-Source Software。 标有![Freeware][Freeware Icon] 的项目是Freeware。*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 - [应用程序](#应用程序)
-  - [音频](#音频)
+  - [必备应用](#必备应用)
   - [聊天客户端](#聊天客户端)
   - [压缩](#压缩)
   - [个性化](#个性化)
@@ -47,9 +47,9 @@
 
 ## 应用程序
 
-### 音频
-- [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon] 
-- [Audacity](http://audacityteam.org/) - 免费，开放的资源，用于录制和编辑音频的跨平台软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+### 必备应用
+- [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon] 
+- [Listary](https://www.listary.com/) - 一款实用的搜索工具。 ![Freeware][Freeware Icon]
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且美观的操作体验。 ![Freeware][Freeware Icon]
