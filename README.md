@@ -17,8 +17,12 @@
       - [Windows](#windows)
       - [Mac](#mac)
     - [系统应用](#系统应用)
+    - [office](#office)
+    - [浏览器相关](#浏览器相关)
     - [WinPE](#winpe)
     - [操作系统](#操作系统)
+    - [Porn](#porn)
+    - [音频](#音频)
     - [聊天客户端](#聊天客户端)
     - [压缩](#压缩)
     - [个性化](#个性化)
@@ -79,6 +83,13 @@
 - [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
 - [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 - []() - 
+### office
+### 浏览器相关
+- [Google Chrome](https://www.google.com/chrome/) - 一款由Google公司开发的网页浏览器。
+- [Tor 浏览器](https://www.torproject.org/zh-CN/) - 实现匿名通信的自由软件。
+- [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
+- [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
+- 
 
 ### WinPE
 - [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
@@ -86,13 +97,22 @@
 - [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
 - [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 - [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
-- [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
+- [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]][188889686&2418287764]
 
 ### 操作系统
-- [ITELLYOU](https://next.itellyou.cn) - 提供可靠的原版软件。 [旧](https://msdn.itellyou.cn)
+- [ITELLYOU](https://next.itellyou.cn)[旧](https://msdn.itellyou.cn) - 提供可靠的原版软件。
 - [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 - [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
+
+### Porn
+- [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
+- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[gmail Wu1993..]
+- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[bsfq q123456.]
+- [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
+- [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+
+### 音频
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且美观的操作体验。 ![Freeware][Freeware Icon]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - 可以将您的CD里的文件以任意格式转到您的电脑, 同时兼具一些优秀的特色功能。
