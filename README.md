@@ -100,7 +100,7 @@
 - [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
 
 ### 操作系统
-- [ITELLYOU](https://next.itellyou.cn)[旧](https://msdn.itellyou.cn) - 提供可靠的原版软件。
+- [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
 - [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 - [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 - [AudioNodes](https://audionodes.com/) - 模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等。 ![Freeware][Freeware Icon]
