@@ -107,8 +107,8 @@
 
 ### Porn
 - [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
-- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。(gmail Wu1993..)
-- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。(bsfq q123456.)
+- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail Wu1993..)
+- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq q123456.)
 - [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 - [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
 
