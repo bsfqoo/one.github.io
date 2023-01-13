@@ -97,7 +97,7 @@
 - [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
 - [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 - [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
-- [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]][188889686&2418287764]
+- [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
 
 ### 操作系统
 - [ITELLYOU](https://next.itellyou.cn)[旧](https://msdn.itellyou.cn) - 提供可靠的原版软件。
@@ -107,8 +107,8 @@
 
 ### Porn
 - [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
-- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[gmail Wu1993..]
-- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[bsfq q123456.]
+- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。(gmail Wu1993..)
+- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。(bsfq q123456.)
 - [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 - [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
 
