@@ -68,7 +68,7 @@ Awesome Mac&Windows
 ### 其它应用
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
 * [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
-* [Meta] - 一款Mac平台的音乐元标签数据编辑工具。
+* Meta - 一款Mac平台的音乐元标签数据编辑工具。
 * [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - [![Freeware Icon]](gmail&Wu-..)
 * [Dism++](https://dism.cf/) - 也许是最强的实用工具。全球第一款基于 CBS 的 Dism GUI 实现。
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
@@ -173,28 +173,28 @@ Awesome Mac&Windows
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 
 ## 股票相关网站
-[i问财](http://www.iwencai.com)
-[上证e互动](http://sns.sseinfo.com)
-[深交所互动易](http://irm.cninfo.com.cn)
-[巨潮资讯网](http://www.cninfo.com.cn/new/index)
-[上海证券报](https://www.cnstock.com)
-[财联社](https://www.cls.cn)
-[金融界](http://www.jrj.com.cn)
-[东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
-[同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
-[集思录](https://www.jisilu.cn)
-[中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
-[海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
-[艾瑞网](https://www.iresearch.cn)
-[乐晴智库](http://www.767stock.com)
+* [i问财](http://www.iwencai.com)
+* [上证e互动](http://sns.sseinfo.com)
+* [深交所互动易](http://irm.cninfo.com.cn)
+* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
+* [上海证券报](https://www.cnstock.com)
+* [财联社](https://www.cls.cn)
+* [金融界](http://www.jrj.com.cn)
+* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
+* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
+* [集思录](https://www.jisilu.cn)
+* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
+* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
+* [艾瑞网](https://www.iresearch.cn)
+* [乐晴智库](http://www.767stock.com)
 
 ## Porn
-- [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
-- [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
-- [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
-- [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
-- [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
-- [91短视频](https://www.91short.com)
+* [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
+* [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
+* [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
+* [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
+* [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+* [91短视频](https://www.91short.com)
 
 ## 软件下载网站
 *这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
