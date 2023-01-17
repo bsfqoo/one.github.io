@@ -143,7 +143,7 @@ Awesome Mac&Windows
 * [中国色](http://zhongguose.com)
 * [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
 * [Сайт с рекламой](https://checkadblock.ru)
-* [I KNOW](ttps://iknowwhatyoudownload.com/)
+* [I KNOW](https://iknowwhatyoudownload.com/)
 * [SimilarWeb](https://www.similarsites.com)
 * [租会员](http://www.zuxunlei.cn)
 ### 免费资源
