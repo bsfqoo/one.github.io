@@ -104,6 +104,7 @@ Awesome Mac&Windows
 * [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 * [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+* [各平台的分流规则、复写规则及自动化脚本。](https://github.com/blackmatrix7/ios_rule_script) - 我们并不生产规则，我们只是开源规则的搬运工。
 * [Quantumult X 配置教程](https://dengget.com/tools/quantumult-x.html)
 ### 软路由&NAS相关
 * [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
@@ -128,11 +129,18 @@ Awesome Mac&Windows
 ### 操作系统
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
-* [激活工具下载](http://www.aichunjing.com/jhgj1/)
-* [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
+* [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)
+* [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
+* [MSDN - 山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
+* [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
+* [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
+* [HelloWindows](https://hellowindows.cn) - 精校 完整 极致 Windows系统下载仓储站(包含Office，激活工具)。
+* [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
+* [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载。)。
 * [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 * [Windsys Project](https://windsys.win) - 也许是最适合年轻人使用的第三方社区系统。
+* [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ## 在线资源
@@ -192,6 +200,7 @@ Awesome Mac&Windows
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
+* [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
 * [91短视频](https://www.91short.com)
