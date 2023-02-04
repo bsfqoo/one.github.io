@@ -133,8 +133,9 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
-* [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
+* [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
+* [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [HelloWindows](https://hellowindows.cn) - 精校 完整 极致 Windows系统下载仓储站(包含Office，激活工具)。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载。)。
