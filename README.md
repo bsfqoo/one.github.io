@@ -52,10 +52,12 @@ Awesome Mac&Windows
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 *Mac必备应用*
 * [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
-* [Aria2安装及其配置](https://www.jianshu.com/p/74ab7c2053ac) - Mac下Aria2安装及其配置并设置开机启动（某云黑科技）。
 * [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
 * [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
 * [Downie 4](https://software.charliemonroe.net/downie/) - 支持多达近 1200 个视频站点的视频下载工具。
+* [Motrix](https://motrix.app/) - Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。 [![Open-Source Software][OSS Icon]](https://github.com/agalwood/Motrix) ![Freeware][Freeware Icon]
+* [NeatDownloadManager](https://www.neatdownloadmanager.com/) - Neat Download Manager是一个免费的互联网下载管理器。
+* [BetterZip](https://macitbetter.com/) - 压缩解压缩工具支持格式 ZIP、TAR、TGZ、TBZ、TXZ (new)、7-ZIP、RAR。
 * [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
 ### Office
 * [Office Tool Plus](https://otp.landian.vip/zh-cn/) - 一个强大且实用的 Office 部署工具。
@@ -104,8 +106,6 @@ Awesome Mac&Windows
 * [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 * [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
-* [各平台的分流规则、复写规则及自动化脚本。](https://github.com/blackmatrix7/ios_rule_script) - 我们并不生产规则，我们只是开源规则的搬运工。
-* [Quantumult X 配置教程](https://dengget.com/tools/quantumult-x.html)
 ### 软路由&NAS相关
 * [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
 * [矿渣社区](https://bbs.nas66.com)
@@ -122,10 +122,10 @@ Awesome Mac&Windows
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
 * [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。
 * [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
-* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
 * [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
 * [TWM000](https://twm000.top)
+* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 ### 操作系统
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
@@ -226,6 +226,7 @@ Awesome Mac&Windows
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
+* Digit77：~~`https://www.digit77.com`~~
 * 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
