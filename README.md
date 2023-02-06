@@ -42,7 +42,9 @@ Awesome Mac&Windows
 
 ## 系统应用
 ### 必备应用
+
 *Windows必备应用*
+
 * [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon]
 * [Listary](https://www.listary.com/) - 一款实用的搜索工具。
 * [Everything](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹。 ![Freeware][Freeware Icon]
@@ -50,7 +52,9 @@ Awesome Mac&Windows
 * [Snipaste](https://zh.snipaste.com/) - 一款效率极高、功能非常丰富的截图+贴图小工具。
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
+
 *Mac必备应用*
+
 * [Homebrew](https://brew.sh/index_zh-cn#install) - 一款MacOS平台下的软件包管理工具,拥有安装、卸载、更新、查看、搜索等很多实用的功能。 ![Freeware][Freeware Icon]
 * [Mounty for NTFS](https://mounty.app) - 一个轻巧的系统增强工具,可以让MacOS支持写入NTFS格式的分区或外接优盘、移动硬盘等。
 * [IINA](https://www.iina.io) - 一款 macOS 下的开源视频播放器。 [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
@@ -145,7 +149,9 @@ Awesome Mac&Windows
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ## 在线资源
+
 *一些看起来不错的网站。*
+
 ### 在线工具
 * [Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
 * [青柠起始页](https://limestart.cn/)[![Freeware Icon]](163&Wu-..)
