@@ -170,10 +170,17 @@ Awesome Mac&Windows
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
 * [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。
 * [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
+* [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
+* [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
+* [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
+* [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
+* [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
+* [U盘魔术师](https://www.sysceo.com/) - 简称USM，由系统总裁网站(www.sysceo.com)开发研制。
 * [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
-* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764)
-* [TWM000](https://twm000.top)
+* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764&437356033)
+* [TWM000](https://twm000.top) - TWM000。
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
+* [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
 ### 操作系统
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
@@ -182,6 +189,7 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
+* [吻妻系统]（https://www.newxitong.com/）- 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
 * [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
