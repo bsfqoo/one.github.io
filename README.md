@@ -122,6 +122,7 @@ Awesome Mac&Windows
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 ### 音乐播放&下载
+* [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 * [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/)
 * [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop)
 ### 视频观看&下载
@@ -182,9 +183,11 @@ Awesome Mac&Windows
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
 ### 操作系统
-* [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
-* [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
-* [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)
+* [[微零微]-Windows/Office全系列激活教程] - Windows系统一句命令激活[永久]。
+* [云萌](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具。
+* [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - HEU_KMS_Activator。
+* [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - KMS_VL_ALL_AIO。
+* [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
 * [HelloWindows](https://hellowindows.cn) - 精校 完整 极致 Windows系统下载仓储站(包含Office，激活工具)。
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
