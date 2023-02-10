@@ -183,7 +183,7 @@ Awesome Mac&Windows
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
 ### 操作系统
-* [[微零微]-Windows/Office全系列激活教程] - Windows系统一句命令激活[永久]。
+* [微零微]-Windows/Office全系列激活教程] - Windows系统一句命令激活[永久]。
 * [云萌](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - HEU_KMS_Activator。
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - KMS_VL_ALL_AIO。
