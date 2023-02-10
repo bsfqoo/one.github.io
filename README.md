@@ -192,7 +192,7 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
-* [吻妻系统]（https://www.newxitong.com/）- 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
+* [吻妻系统](https://www.newxitong.com/)- 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
 * [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
