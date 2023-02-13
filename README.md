@@ -241,12 +241,18 @@ Awesome Mac&Windows
 
 *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
 
+* MacWk：~~`https://macwk.com/`~~
+* MacYY：~~`https://www.macyy.cn/`~~
+* appstorrent：~~`https://appstorrent.ru/`~~
+* XClient：~~`https://xclient.info/`~~
+* Mac Torrents：~~`https://www.torrentmac.net/`~~
+* MacApp：~~`https://macapp.org.cn/`~~
+* 马可菠萝：~~`https://www.macbl.com/`~~
 * Digit77：~~`https://www.digit77.com`~~
 * 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
 * Mac精品软件：~~`http://xclient.info/`~~
-* MacWk：~~`https://macwk.com/`~~
 * MacPeers：~~`https://www.macpeers.com`~~
 * Mac毒：~~`https://www.macdo.cn`~~
 * Macx：~~`https://www.macx.cn/`~~
