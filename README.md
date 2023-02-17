@@ -52,7 +52,7 @@ Awesome Mac&Windows
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
-* [Mp3tag](https://mp3tag.app/) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
+* [Mp3tag](https://www.mp3tag.de/index.html) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 
 *Mac必备应用*
