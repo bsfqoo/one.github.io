@@ -72,6 +72,7 @@ Awesome Mac&Windows
 ### 浏览器相关
 * [Google Chrome](https://www.google.com/chrome/) - 一款由Google公司开发的网页浏览器。
 * [Tor 浏览器](https://www.torproject.org/zh-CN/) - 实现匿名通信的自由软件。
+* [油小猴](https://www.youxiaohou.com/download.html) - 一个汇聚了各种黑科技的小站。
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
 * [IDM插件](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek/related)
