@@ -127,9 +127,11 @@ Awesome Mac&Windows
 * [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/)
 * [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop)
 ### 视频观看&下载
-* [TELE影院](https://tgyyvip.com)
-* [蛋蛋赞影院](https://www.dandanzan10.top)
-* [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..)
+* [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
+* [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
+* [TELE影院](https://tgyyvip.com) - 大片，高清正版免费在线观看！
+* [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
+* [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
 ### 购物相关网站
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)
 * [中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)
