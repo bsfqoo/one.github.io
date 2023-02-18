@@ -172,19 +172,20 @@ Awesome Mac&Windows
 ## 网络&系统相关
 ### WinPE
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
-* [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。
+* [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。[![Freeware Icon]](bsfqoo&Li-..)
 * [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
-* [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
-* [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
-* [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
+* [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
+* [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
 * [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
 * [U盘魔术师](https://www.sysceo.com/) - 简称USM，由系统总裁网站(www.sysceo.com)开发研制。
-* [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
 * [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764&437356033)
 * [TWM000](https://twm000.top) - TWM000。
-* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
+* [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
+* [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
+* [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
+* [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
 ### 操作系统
 * [[微零微]-Windows/Office全系列激活教程](https://v0v.bid) - Windows系统一句命令激活[永久]。
 * [云萌](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具。
