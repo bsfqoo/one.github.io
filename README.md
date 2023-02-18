@@ -224,6 +224,8 @@ Awesome Mac&Windows
 * [Steam](http://store.steampowered.com/) - 最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。
 * [Steam数据库](https://steamdb.info) - Steam 上所有内容的数据库。
 * [Steam PY市场](https://steampy.com) - 为Steam玩家提供的游戏交易市场, 可以出售自己的Steam余额,低价购买Steam游戏,提供Steam游戏礼物代购,查询Steam余额,查看Steam额度等。
+* [Watt Toolkit](https://steampp.net/) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
+* [steamcommunity 302](https://www.dogfight360.com/blog/686/) - Steam加速。
 
 ## 软件下载网站
 *这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
