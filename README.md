@@ -75,17 +75,16 @@ Awesome Mac&Windows
 * [油小猴](https://www.youxiaohou.com/download.html) - 一个汇聚了各种黑科技的小站。
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
-* [IDM插件](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek/related)
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
-* [全方位查看我的IP地址](https://ip.skk.moe/)
-* [查询您的IP地址](http://www.ip111.cn/)
-* [GCPing](https://gcping.com/)
+* [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
+* [IP地址查询](http://www.ip111.cn/) - 查询您的IP地址。
+* [GCPing](https://gcping.com/) - GCPing。
 * [Lantern](https://lantern.io) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
-* [ClashX](https://github.com/yichengchen/clashX)
-* [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
-* [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
+* [ClashX](https://github.com/yichengchen/clashX) - ClashX。
+* [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro。
+* [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - Clash for Windows Chinese。
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 ### 其它应用
 * [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
@@ -103,7 +102,7 @@ Awesome Mac&Windows
 * [完美解码](https://jm.wmzhe.com) - 一款为众多影视发烧友精心打造的专业高清播放器。
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [KeePass](https://keepass.info) - 一款免费的开源密码管理器。
-* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac[![Freeware Icon]](gmail&Wu-..)
+* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac。[![Freeware Icon]](gmail&Wu-..)
 
 ## 在线资源
 
