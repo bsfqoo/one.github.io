@@ -125,7 +125,7 @@ Awesome Mac&Windows
 ### 音乐播放&下载
 * [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
 * [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
-* [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/)
+* [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
 ### 视频观看&下载
 * [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
 * [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
