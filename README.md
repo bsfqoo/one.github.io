@@ -88,6 +88,7 @@ Awesome Mac&Windows
 * [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 ### 其它应用
+* [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
 * [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
 * [Dism++](https://dism.cf/) - 也许是最强的实用工具。全球第一款基于 CBS 的 Dism GUI 实现。
 * [SpaceSniffe](http://www.uderzo.it/main_products/space_sniffer/index.html) - 一款以块状树平铺直观展现磁盘空间占用情况的绿色软件。
@@ -102,7 +103,7 @@ Awesome Mac&Windows
 * [完美解码](https://jm.wmzhe.com) - 一款为众多影视发烧友精心打造的专业高清播放器。
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [KeePass](https://keepass.info) - 一款免费的开源密码管理器。
-* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - [![Freeware Icon]](gmail&Wu-..)
+* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac[![Freeware Icon]](gmail&Wu-..)
 
 ## 在线资源
 
@@ -123,9 +124,9 @@ Awesome Mac&Windows
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 ### 音乐播放&下载
+* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
 * [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 * [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/)
-* [洛雪音乐助手桌面版](https://github.com/lyswhut/lx-music-desktop)
 ### 视频观看&下载
 * [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
 * [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
@@ -167,7 +168,7 @@ Awesome Mac&Windows
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
-* [91短视频](https://www.91short.com)
+* [91短视频](https://www.91short.com) - 91。
 
 ## 网络&系统相关
 ### WinPE
