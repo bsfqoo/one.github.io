@@ -75,6 +75,7 @@ Awesome Mac&Windows
 * [油小猴](https://www.youxiaohou.com/download.html) - 一个汇聚了各种黑科技的小站。
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
+* [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
 * [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
