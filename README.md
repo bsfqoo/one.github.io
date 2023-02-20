@@ -184,6 +184,8 @@ Awesome Mac&Windows
 * [TWM000](https://twm000.top) - TWM000。
 * [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
+* [金狐系统维护盘](http://www.jinhu.me/default.asp?cateID=6) - 相伴十四载！感谢有你！
+* [优启时代](https://www.uqiba.com/) [存档](http://jhsoft.ysepan.com/) USB启动技术分享。
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
