@@ -124,7 +124,8 @@ Awesome Mac&Windows
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 ### 音乐播放&下载
-* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
+* [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。
+* [雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
 * [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 * [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
 ### 视频观看&下载
