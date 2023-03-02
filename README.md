@@ -192,6 +192,7 @@ Awesome Mac&Windows
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
 ### 操作系统
+* [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
 * [[微零微]-Windows/Office全系列激活教程](https://v0v.bid) - Windows系统一句命令激活[永久]。
 * [云萌](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - HEU_KMS_Activator。
