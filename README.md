@@ -119,6 +119,7 @@ Awesome Mac&Windows
 * [SimilarWeb](https://www.similarsites.com)
 * [租会员](http://www.zuxunlei.cn)
 ### 免费资源
+* [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
 * [wallhaven](https://wallhaven.cc/) - 一个非常不错的壁纸分享平台。
 * [Pexels](https://help.pexels.com/hc/en-us) - 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
@@ -146,6 +147,7 @@ Awesome Mac&Windows
 * [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
 * [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
 ### 其它乱七八糟的
+* [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 ### 股票相关网站
