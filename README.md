@@ -126,6 +126,7 @@ Awesome Mac&Windows
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 ### 音乐播放&下载
 * [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
+* [Музыка на любой вкус](https://mp3-banana.pro/) - 俄罗斯的一个音乐下载网站， 无需任何会员，没有广告，可以在线听歌下载。
 * [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。[![Freeware Icon]](gmail&Wu-..)
 * [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
 * [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
@@ -147,6 +148,7 @@ Awesome Mac&Windows
 * [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
 * [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
 ### 其它乱七八糟的
+* [搞机工具箱](https://jamcz.com/) - 一款利用ADB (安卓调试桥）来控制手机的玩机工具。
 * [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
