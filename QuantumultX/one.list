@@ -1,5 +1,10 @@
-HOST-SUFFIX,mp3-banana.pro,PROXY
-HOST-SUFFIX,emby.wtf,PROXY
-HOST-SUFFIX,blueseamusics.com,PROXY
 HOST-SUFFIX,nvpn.me,PROXY
+# > Музыка на любой вкус(俄罗斯音乐网站)
+HOST-SUFFIX,mp3-banana.pro,PROXY
+# > 终点站
+HOST-SUFFIX,emby.wtf,PROXY
+# > CreamData
+HOST-SUFFIX,nysubs.xyz,PROXY
+
+# > 直连设置
 # HOST-SUFFIX,PROXYv.com,DIRECT
