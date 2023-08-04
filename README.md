@@ -125,6 +125,7 @@ Awesome Mac&Windows
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
 ### 音乐播放&下载
+* [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。
 * [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
 * [Музыка на любой вкус](https://mp3-banana.pro/) - 俄罗斯的一个音乐下载网站， 无需任何会员，没有广告，可以在线听歌下载。
 * [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。[![Freeware Icon]](gmail&Wu-..)
