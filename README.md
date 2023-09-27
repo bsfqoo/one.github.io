@@ -211,7 +211,6 @@ Awesome Mac&Windows
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [远航技术](https://www.far123.com/) - 主要用来和大家分享优秀软件及电脑技巧。
-
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
 * [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
 * [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载。)。
