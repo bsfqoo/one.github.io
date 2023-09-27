@@ -29,7 +29,7 @@ Awesome Mac&Windows
   - [网络\&系统相关](#网络系统相关)
     - [WinPE](#winpe)
     - [操作系统](#操作系统)
-    - [软路由\&NAS](#软路由nas)
+    - [软路由\&NAS相关](#软路由nas相关)
   - [游戏](#游戏)
   - [软件下载网站](#软件下载网站)
     - [正版/介绍](#正版介绍)
@@ -180,7 +180,7 @@ Awesome Mac&Windows
 ## 网络&系统相关
 ### WinPE
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
-* [无忧启动论坛](http://bbs.wuyou.net/forum.php) - 国内首个专门讨论启动盘制作、以提高工作效率为宗旨的技术交流网站。[![Freeware Icon]](bsfqoo&Li-..)
+* [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。[![Freeware Icon]](bsfqoo&Li-..)
 * [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
 * [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
@@ -209,19 +209,21 @@ Awesome Mac&Windows
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
+* [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
+* [远航技术](https://www.far123.com/) - 主要用来和大家分享优秀软件及电脑技巧。
+
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
 * [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
-* [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载。)。
 * [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 * [Windsys Project](https://windsys.win) - 也许是最适合年轻人使用的第三方社区系统。
 * [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
-### 软路由&NAS
+### 软路由&NAS相关
 * [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
-* [矿渣社区](https://bbs.nas66.com) - [![Freeware Icon]](bsfqoo&Wu-..)
-* [恩山无线论坛](https://www.right.com.cn/forum/) - [![Freeware Icon]](bsfqoo&Wu-..)
+* [矿渣社区](https://bbs.nas66.com)
+* [恩山无线论坛](https://www.right.com.cn/forum/)
 * [群晖的RAID类型：basic、shr、raid1、jbod、raid0、raid5](https://blog.csdn.net/qq_41911582/article/details/107537289)
 * [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)
 * [黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)
