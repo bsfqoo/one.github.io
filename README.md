@@ -12,10 +12,10 @@ Awesome Mac&Windows
   - [目录](#目录)
   - [系统应用](#系统应用)
     - [必备应用](#必备应用)
+    - [其它应用](#其它应用)
     - [Office](#office)
     - [浏览器相关](#浏览器相关)
     - [科学上网](#科学上网)
-    - [其它应用](#其它应用)
   - [在线资源](#在线资源)
     - [在线工具](#在线工具)
     - [免费资源](#免费资源)
@@ -44,7 +44,11 @@ Awesome Mac&Windows
 
 *Windows必备应用*
 
+* [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
+* [MPC-HC](https://github.com/clsid2/mpc-hc) - 一款适用于 Windows 的免费开源视频和音频播放器。
+* [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 * [QuickLook](https://pooi.moe/QuickLook/) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。) [![Open-Source Software][OSS Icon]](https://github.com/QL-Win/QuickLook/releases) ![Freeware][Freeware Icon]
+* [Wox](http://www.wox.one/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
 * [Listary](https://www.listary.com/) - 一款实用的搜索工具。
 * [Everything](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹。 ![Freeware][Freeware Icon]
 * [Quicker](https://getquicker.net/) - 一个 “超级” 启动器 它不仅用可以帮您打开软件或文件, 更重要的是可以启动各类“操作”。
@@ -52,8 +56,6 @@ Awesome Mac&Windows
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
-* [Mp3tag](https://www.mp3tag.de/index.html) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
-* [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 
 *Mac必备应用*
 
@@ -67,6 +69,26 @@ Awesome Mac&Windows
 * [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
 * Meta - 一款Mac平台的音乐元标签数据编辑工具。
 * [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
+### 其它应用
+* [Mp3tag](https://www.mp3tag.de/index.html) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
+* [K-Lite Codec Pack](https://www.codecguide.com) - 您提供绝大多数影音格式的解码器，装了它，您的播放器就可以通吃绝大多数的影音格式。
+* [完美解码](https://jm.wmzhe.com) - 一款为众多影视发烧友精心打造的专业高清播放器。
+* [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 该项目旨在增强 Windows 上的工作环境。
+* [PowerToys](https://github.com/microsoft/PowerToys) - 可最大限度提高工作效率的 Windows 系统实用程序。
+* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
+* [Dism++](https://dism.cf/) - 也许是最强的实用工具。全球第一款基于 CBS 的 Dism GUI 实现。
+* [SpaceSniffe](http://www.uderzo.it/main_products/space_sniffer/index.html) - 一款以块状树平铺直观展现磁盘空间占用情况的绿色软件。
+* [菲菲更名宝贝 之 得意非凡](http://www.ffhome.com/works/1406.html) - 一款优秀的批量更名软件和批量文件处理工具。
+* [ToDesk](https://www.todesk.com) - 一款多平台远程控制软件，支持主流操作系统Windows、Linux、Mac、Android、iOS跨平台协同操作。
+* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - SSH 和 telnet 客户端。
+* [Notepad++](https://notepad-plus-plus.org) - 一款支持多种编程语言的源码编辑器。
+* [Gimp Quickies](https://www.gimp.org/tutorials/GIMP_Quickies/) - 一个非常有用且方便的快速图像修改工具。
+* [Billfish](https://www.billfish.cn) - 面向未来的素材管理工具。
+* [1password](https://1password.com/) - 跨平台帐号密码管理软件。
+* [KeePass](https://keepass.info) - 一款免费的开源密码管理器。
+* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac。[![Freeware Icon]](gmail&Wu-..)
 ### Office
 * [Office Tool Plus](https://otp.landian.vip/zh-cn/) - 一个强大且实用的 Office 部署工具。
 ### 浏览器相关
@@ -87,23 +109,6 @@ Awesome Mac&Windows
 * [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro。
 * [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - Clash for Windows Chinese。
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
-### 其它应用
-* [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
-* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
-* [Dism++](https://dism.cf/) - 也许是最强的实用工具。全球第一款基于 CBS 的 Dism GUI 实现。
-* [SpaceSniffe](http://www.uderzo.it/main_products/space_sniffer/index.html) - 一款以块状树平铺直观展现磁盘空间占用情况的绿色软件。
-* [菲菲更名宝贝 之 得意非凡](http://www.ffhome.com/works/1406.html) - 一款优秀的批量更名软件和批量文件处理工具。
-* [ToDesk](https://www.todesk.com) - 一款多平台远程控制软件，支持主流操作系统Windows、Linux、Mac、Android、iOS跨平台协同操作。
-* [TeamViewer](https://www.teamviewer.com) - 远程协助及在线协作和会议功能的软件，商业软件个人使用免费。![Freeware][Freeware Icon]
-* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) - SSH 和 telnet 客户端。
-* [Notepad++](https://notepad-plus-plus.org) - 一款支持多种编程语言的源码编辑器。
-* [Gimp Quickies](https://www.gimp.org/tutorials/GIMP_Quickies/) - 一个非常有用且方便的快速图像修改工具。
-* [Billfish](https://www.billfish.cn) - 面向未来的素材管理工具。
-* [K-Lite Codec Pack](https://www.codecguide.com) - 您提供绝大多数影音格式的解码器，装了它，您的播放器就可以通吃绝大多数的影音格式。
-* [完美解码](https://jm.wmzhe.com) - 一款为众多影视发烧友精心打造的专业高清播放器。
-* [1password](https://1password.com/) - 跨平台帐号密码管理软件。
-* [KeePass](https://keepass.info) - 一款免费的开源密码管理器。
-* [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac。[![Freeware Icon]](gmail&Wu-..)
 
 ## 在线资源
 
@@ -208,6 +213,7 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
+* [423Down](https://www.423down.com/) - 一家由个人运营的软件下载站博客。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
@@ -221,9 +227,9 @@ Awesome Mac&Windows
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ### 软路由&NAS相关
-* [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
 * [矿渣社区](https://bbs.nas66.com)
-* [恩山无线论坛](https://www.right.com.cn/forum/)
+* [恩山无线论坛](https://www.right.com.cn/forum/) - [![Freeware Icon]](bsfqoo&Wu-..)
+* [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
 * [群晖的RAID类型：basic、shr、raid1、jbod、raid0、raid5](https://blog.csdn.net/qq_41911582/article/details/107537289)
 * [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)
 * [黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)
