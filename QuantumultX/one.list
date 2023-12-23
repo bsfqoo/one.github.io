@@ -1,8 +1,8 @@
 # > HOST-SUFFIX,nvpn.me,PROXY
 # > Музыка на любой вкус(俄罗斯音乐网站)
 HOST-SUFFIX,mp3-banana.pro,PROXY
-# > 终点站
-HOST-SUFFIX,emby.wtf,PROXY
+# > 开屏广告
+# HOST-SUFFIX,,PROXY
 # > CreamData
 HOST-SUFFIX,nysubs.xyz,PROXY
 
