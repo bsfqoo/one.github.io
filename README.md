@@ -56,6 +56,7 @@ Awesome Mac&Windows
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
+* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 用于Microsoft Windows平台的磁盘空间分析。
 
 *Mac必备应用*
 
