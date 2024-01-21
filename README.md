@@ -194,7 +194,7 @@ Awesome Mac&Windows
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
 * [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
 * [U盘魔术师](https://www.sysceo.com/) - 简称USM，由系统总裁网站(www.sysceo.com)开发研制。
-* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764&437356033)
+* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764&437356033&760862083)
 * [TWM000](https://twm000.top) - TWM000。
 * [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
