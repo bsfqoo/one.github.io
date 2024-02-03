@@ -182,7 +182,6 @@ Awesome Mac&Windows
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
-* [91短视频](https://www.91short.com) - 91。
 
 ## 网络&系统相关
 ### WinPE
@@ -228,7 +227,7 @@ Awesome Mac&Windows
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ### 软路由&NAS相关
-* [矿渣社区](https://bbs.nas66.com)
+* [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
 * [恩山无线论坛](https://www.right.com.cn/forum/) - [![Freeware Icon]](bsfqoo&Wu-..)
 * [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
 * [群晖的RAID类型：basic、shr、raid1、jbod、raid0、raid5](https://blog.csdn.net/qq_41911582/article/details/107537289)
