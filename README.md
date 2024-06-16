@@ -101,6 +101,7 @@ Awesome Mac&Windows
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
+* [Quantumult X Wiki Book](https://qx.atlucky.me/) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
 * [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
 * [IP地址查询](http://www.ip111.cn/) - 查询您的IP地址。
 * [GCPing](https://gcping.com/) - GCPing。
