@@ -177,6 +177,7 @@ Awesome Mac&Windows
 * [艾瑞网](https://www.iresearch.cn)
 * [乐晴智库](http://www.767stock.com)
 ### Porn
+* [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
@@ -194,7 +195,8 @@ Awesome Mac&Windows
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
 * [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
 * [U盘魔术师](https://www.sysceo.com/) - 简称USM，由系统总裁网站(www.sysceo.com)开发研制。
-* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](188889686&2418287764&437356033&760862083)
+* [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](754860900&188889686&2418287764&437356033&760862083&10832088&8127087)
+* [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
 * [TWM000](https://twm000.top) - TWM000。
 * [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
@@ -204,15 +206,18 @@ Awesome Mac&Windows
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
 ### 操作系统
+* [SysRi](https://docs.sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
 * [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
-* [[微零微]-Windows/Office全系列激活教程](https://v0v.bid) - Windows系统一句命令激活[永久]。
+* [[微零微]-Windows/Office全系列激活教程](https://jihuowin.com/index.php) - Windows系统一句命令激活[永久]。
 * [云萌](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - HEU_KMS_Activator。
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - KMS_VL_ALL_AIO。
+* [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
 * [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
 * [HelloWindows](https://hellowindows.cn) - 精校 完整 极致 Windows系统下载仓储站(包含Office，激活工具)。
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
+* [WinNew](https://winnew.cn/) - WinNew是一个获取原版Windows镜像的网站， 镜像来自于Windows更新服务器，提供直链下载。原汁原味，纯净无修改！
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
 * [423Down](https://www.423down.com/) - 一家由个人运营的软件下载站博客。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
