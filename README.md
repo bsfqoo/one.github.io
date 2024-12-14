@@ -23,10 +23,10 @@ Awesome Mac&Windows
     - [购物相关网站](#购物相关网站)
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
+  - [股票相关网站](#股票相关网站)
   - [软件下载网站](#软件下载网站)
     - [正版/介绍](#正版介绍)
     - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
-  - [股票相关网站](#股票相关网站)
   - [网络\&系统相关](#网络系统相关)
     - [WinPE](#winpe)
     - [操作系统](#操作系统)
@@ -162,6 +162,25 @@ Awesome Mac&Windows
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 
 
+## 股票相关网站
+* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
+* [淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)
+* [集思录](https://www.jisilu.cn)
+* [i问财](http://www.iwencai.com)
+* [上证e互动](http://sns.sseinfo.com)
+* [深交所互动易](http://irm.cninfo.com.cn)
+* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
+* [上海证券报](https://www.cnstock.com)
+* [财联社](https://www.cls.cn)
+* [金融界](http://www.jrj.com.cn)
+* [艾瑞网](https://www.iresearch.cn)
+* [乐晴智库](http://www.767stock.com)
+* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
+* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
+* [通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
+* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
+
+
 ## 软件下载网站
 
 *这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
@@ -204,23 +223,6 @@ Awesome Mac&Windows
 * 极致分享：~~`https://alltoshare.com/`~~
 * 未来软件园：~~`http://www.orsoon.com/`~~
 * 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
-
-
-## 股票相关网站
-* [i问财](http://www.iwencai.com)
-* [上证e互动](http://sns.sseinfo.com)
-* [深交所互动易](http://irm.cninfo.com.cn)
-* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
-* [上海证券报](https://www.cnstock.com)
-* [财联社](https://www.cls.cn)
-* [金融界](http://www.jrj.com.cn)
-* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
-* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
-* [集思录](https://www.jisilu.cn)
-* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
-* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
-* [艾瑞网](https://www.iresearch.cn)
-* [乐晴智库](http://www.767stock.com)
 
 
 ## 网络&系统相关
@@ -314,6 +316,7 @@ Awesome Mac&Windows
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+
 
 <!--end-->
 
