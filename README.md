@@ -15,7 +15,6 @@ Awesome Mac&Windows
     - [其它应用](#其它应用)
     - [Office](#office)
     - [浏览器相关](#浏览器相关)
-    - [科学上网](#科学上网)
   - [在线资源](#在线资源)
     - [在线工具](#在线工具)
     - [免费资源](#免费资源)
@@ -24,22 +23,24 @@ Awesome Mac&Windows
     - [购物相关网站](#购物相关网站)
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
-    - [股票相关网站](#股票相关网站)
-    - [Porn](#porn)
+  - [软件下载网站](#软件下载网站)
+    - [正版/介绍](#正版介绍)
+    - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
+  - [股票相关网站](#股票相关网站)
   - [网络\&系统相关](#网络系统相关)
     - [WinPE](#winpe)
     - [操作系统](#操作系统)
     - [软路由\&NAS相关](#软路由nas相关)
+    - [科学上网](#科学上网)
   - [游戏](#游戏)
-  - [软件下载网站](#软件下载网站)
-    - [正版/介绍](#正版介绍)
-    - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
+  - [Porn](#porn)
   - [License](#license)
 
 <!--start-->
 <!--idoc:ignore:end-->
 
 ## 系统应用
+
 ### 必备应用
 
 *Windows必备应用*
@@ -70,6 +71,7 @@ Awesome Mac&Windows
 * [balenaEtcher](https://www.balena.io/etcher/) - 一款简单好用的开源跨平台刻录工具。
 * Meta - 一款Mac平台的音乐元标签数据编辑工具。
 * [MacZip](https://ezip.awehunt.com) - Mac平台上一款非常优秀且简洁易用的压缩解压软件。
+
 ### 其它应用
 * [Mp3tag](https://www.mp3tag.de/index.html) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [K-Lite Codec Pack](https://www.codecguide.com) - 您提供绝大多数影音格式的解码器，装了它，您的播放器就可以通吃绝大多数的影音格式。
@@ -77,7 +79,7 @@ Awesome Mac&Windows
 * [OBS](https://obsproject.com/zh-cn) - 免费且开源的用于视频录制以及直播串流的软件。
 * [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - 该项目旨在增强 Windows 上的工作环境。
 * [PowerToys](https://github.com/microsoft/PowerToys) - 可最大限度提高工作效率的 Windows 系统实用程序。
-* [腾讯柠檬清理](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
+* [腾讯柠檬](https://lemon.qq.com/) - 一款免费的Mac系统清理软件，替代原来的Mac电脑管家，腾讯出品。
 * [Dism++](https://dism.cf/) - 也许是最强的实用工具。全球第一款基于 CBS 的 Dism GUI 实现。
 * [SpaceSniffe](http://www.uderzo.it/main_products/space_sniffer/index.html) - 一款以块状树平铺直观展现磁盘空间占用情况的绿色软件。
 * [菲菲更名宝贝 之 得意非凡](http://www.ffhome.com/works/1406.html) - 一款优秀的批量更名软件和批量文件处理工具。
@@ -90,8 +92,10 @@ Awesome Mac&Windows
 * [1password](https://1password.com/) - 跨平台帐号密码管理软件。
 * [KeePass](https://keepass.info) - 一款免费的开源密码管理器。
 * [VMware Fusion Player](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal) - VMware Fusion Player for Mac。[![Freeware Icon]](gmail&Wu-..)
+
 ### Office
 * [Office Tool Plus](https://otp.landian.vip/zh-cn/) - 一个强大且实用的 Office 部署工具。
+
 ### 浏览器相关
 * [Google Chrome](https://www.google.com/chrome/) - 一款由Google公司开发的网页浏览器。
 * [Tor 浏览器](https://www.torproject.org/zh-CN/) - 实现匿名通信的自由软件。
@@ -99,18 +103,7 @@ Awesome Mac&Windows
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
-### 科学上网
-* [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
-* [Quantumult X Wiki Book](https://qx.atlucky.me/) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
-* [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
-* [IP地址查询](http://www.ip111.cn/) - 查询您的IP地址。
-* [GCPing](https://gcping.com/) - GCPing。
-* [Lantern](https://lantern.io) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
-* [ClashX](https://github.com/yichengchen/clashX) - ClashX。
-* [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro。
-* [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - Clash for Windows Chinese。
-* [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+
 
 ## 在线资源
 
@@ -125,6 +118,7 @@ Awesome Mac&Windows
 * [I KNOW](https://iknowwhatyoudownload.com/)
 * [SimilarWeb](https://www.similarsites.com)
 * [租会员](http://www.zuxunlei.cn)
+
 ### 免费资源
 * [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
 * [Alpha Coders](https://alphacoders.com/) - 一个非常不错的壁纸分享平台。
@@ -132,6 +126,7 @@ Awesome Mac&Windows
 * [Pexels](https://help.pexels.com/hc/en-us) - 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
 * [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
 * [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
+
 ### 音乐播放&下载
 * [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。[![Freeware Icon]](0h6f&q1-6.)
 * [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
@@ -140,28 +135,78 @@ Awesome Mac&Windows
 * [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
 * [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
 * [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
+
 ### 视频观看&下载
 * [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
 * [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
 * [TELE影院](https://tgyyvip.com) - 大片，高清正版免费在线观看！
 * [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
 * [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
+
 ### 购物相关网站
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)
 * [中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)
 * [转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)
+
 ### 资源整合网站
 * [SkrBT](https://skrbtfabu.top)
 * [iMyShare](https://imyshare.com/)
 * [LKs](https://lkssite.vip)
 * [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
 * [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
+
 ### 其它乱七八糟的
 * [搞机工具箱](https://jamcz.com/) - 一款利用ADB (安卓调试桥）来控制手机的玩机工具。
 * [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
-### 股票相关网站
+
+
+## 软件下载网站
+
+*这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
+
+### 正版/介绍
+* [异次元](https://www.iplaysoft.com/) - 一个致力于推广各种优秀实用软件、网络资源的网站。
+* [果核剥壳](https://www.ghxi.com/) - 果核剥壳，还原软件的本质。
+* [吾爱破解](https://www.52pojie.cn/) - 如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。[![Freeware Icon]](Jiangtaooooo&Li1-1..)
+* [LRepacks](https://lrepacks.net/) - Уже более 10-ти лет я делаю для Вас и делюсь с Вами своими репаками различных программ и утилит, которые пользуются популярностью среди пользователей интернета.
+* XClient：~~`https://xclient.info/`~~
+* Digit77：~~`https://www.digit77.com`~~
+* 马可菠萝：~~`https://www.macbl.com/`~~
+* MAC萌新网：~~`https://www.macxin.com`~~
+* MacApp：~~`https://macapp.org.cn/`~~
+* 威锋网：~~`https://www.feng.com/forum/22`~~
+* AppKed：~~`http://www.macbed.com`~~
+* Mac Torrents：~~`https://www.torrentmac.net/`~~
+
+### 盗版软件下载网站黑名单
+
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
+
+* 玩转苹果：~~`http://www.ifunmac.com`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* MacWk：~~`https://macwk.com/`~~
+* MacYY：~~`https://www.macyy.cn/`~~
+* appstorrent：~~`https://appstorrent.ru/`~~
+* appaddict：~~`https://www.appaddict.org/`~~
+* MacPeers：~~`https://www.macpeers.com`~~
+* Mac毒：~~`https://www.macdo.cn`~~
+* Macx：~~`https://www.macx.cn/`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* MacSky苹果软件园：~~`http://www.macsky.net/`~~
+* Softasm：~~`https://softasm.com/`~~
+* Mac破解软件：~~`https://www.macappstore.net/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* 马可菠萝：~~`http://www.macbl.com/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 未来软件园：~~`http://www.orsoon.com/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
+
+
+## 股票相关网站
 * [i问财](http://www.iwencai.com)
 * [上证e互动](http://sns.sseinfo.com)
 * [深交所互动易](http://irm.cninfo.com.cn)
@@ -176,16 +221,10 @@ Awesome Mac&Windows
 * [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
 * [艾瑞网](https://www.iresearch.cn)
 * [乐晴智库](http://www.767stock.com)
-### Porn
-* [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
-* [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
-* [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
-* [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
-* [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
-* [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
-* [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+
 
 ## 网络&系统相关
+
 ### WinPE
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
 * [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。[![Freeware Icon]](bsfqoo&Li-..)
@@ -194,10 +233,9 @@ Awesome Mac&Windows
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
 * [优启通](https://www.upe.net/) - IT天空精心打造的一款系统预安装环境（PE）。
-* [U盘魔术师](https://www.sysceo.com/) - 简称USM，由系统总裁网站(www.sysceo.com)开发研制。
+* [U盘魔术师](https://www.sysceo.com/usm) - 简称USM，由系统总裁网站开发研制。
 * [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](754860900&188889686&2418287764&437356033&760862083&10832088&8127087)
 * [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
-* [TWM000](https://twm000.top) - TWM000。
 * [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
 * [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
 * [金狐系统维护盘](http://www.jinhu.me/default.asp?cateID=6) - 相伴十四载！感谢有你！
@@ -205,6 +243,7 @@ Awesome Mac&Windows
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
 * [Edgeless](https://home.edgeless.top/#) - 强大而优雅的半开源PE工具。
 * [插件包](https://zfile.edgeless.top/) - Edgeless插件包，兼容FirPE。
+
 ### 操作系统
 * [SysRi](https://docs.sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
 * [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
@@ -220,6 +259,7 @@ Awesome Mac&Windows
 * [WinNew](https://winnew.cn/) - WinNew是一个获取原版Windows镜像的网站， 镜像来自于Windows更新服务器，提供直链下载。原汁原味，纯净无修改！
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
 * [423Down](https://www.423down.com/) - 一家由个人运营的软件下载站博客。
+* [TWM000](https://twm000.top) - TWM000。[网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html)
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
@@ -243,6 +283,19 @@ Awesome Mac&Windows
 * [PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)
 * [群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)
 
+### 科学上网
+* [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
+* [Quantumult X Wiki Book](https://qx.atlucky.me/) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
+* [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
+* [IP地址查询](http://www.ip111.cn/) - 查询您的IP地址。
+* [GCPing](https://gcping.com/) - GCPing。
+* [Lantern](https://lantern.io) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
+* [ClashX](https://github.com/yichengchen/clashX) - ClashX。
+* [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro。
+* [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - Clash for Windows Chinese。
+* [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+
 
 ## 游戏
 * [红警之家](http://www.uc129.com) - 提供最新红色警戒下载,包括红色警戒2共和国之辉,尤里的复仇,红色警戒3起义时刻,世界大战等。
@@ -252,57 +305,15 @@ Awesome Mac&Windows
 * [Watt Toolkit](https://steampp.net/) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
 * [steamcommunity 302](https://www.dogfight360.com/blog/686/) - Steam加速。
 
-## 软件下载网站
-*这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
 
-### 正版/介绍
-* [REPACK 下载](https://lrepacks.net/)
-* [吾爱破解](https://www.52pojie.cn/) - 如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。[![Freeware Icon]](Jiangtaooooo&Li1-1..)
-* [OIMI](https://oimi.me) - 分享美好数字生活的内容平台，同时还涉及 macOS、iOS 等知名系统的使用技巧。
-* [歪果不求仁](https://www.wgbqr.com) - 致力于还原软件的本质，提倡绿色生态，为广大网络爱好者提供无广告/无病毒/无捆绑/效率软件。
-* [果核剥壳](https://www.ghxi.com/)
-* [异次元](https://www.iplaysoft.com/)
-* App Shopper：[http://appshopper.com/](http://appshopper.com/)
-* MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
-* 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-* Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![Freeware][Freeware Icon]
-* 腾讯柠檬精选：[https://lemon.qq.com/lab/](https://lemon.qq.com/lab/)
-
-### 盗版软件下载网站黑名单
-
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
-
-* MacWk：~~`https://macwk.com/`~~
-* MacYY：~~`https://www.macyy.cn/`~~
-* appstorrent：~~`https://appstorrent.ru/`~~
-* XClient：~~`https://xclient.info/`~~
-* Mac Torrents：~~`https://www.torrentmac.net/`~~
-* MacApp：~~`https://macapp.org.cn/`~~
-* 马可菠萝：~~`https://www.macbl.com/`~~
-* Digit77：~~`https://www.digit77.com`~~
-* 玩转苹果：~~`http://www.ifunmac.com`~~
-* AppKed：~~`http://www.macbed.com`~~
-* appaddict：~~`https://www.appaddict.org/`~~
-* Mac精品软件：~~`http://xclient.info/`~~
-* MacPeers：~~`https://www.macpeers.com`~~
-* Mac毒：~~`https://www.macdo.cn`~~
-* Macx：~~`https://www.macx.cn/`~~
-* Mac软件下载站：~~`http://www.pshezi.com`~~
-* MacPeers：~~`http://www.macpeers.com`~~
-* Mac志：~~`http://www.isofts.org`~~
-* Mac软件分享：~~`http://www.waitsun.com`~~
-* MacSky苹果软件园：~~`http://www.macsky.net/`~~
-* Softasm：~~`https://softasm.com/`~~
-* Mac破解软件：~~`https://www.macappstore.net/`~~
-* 卡卡源：~~`http://www.kkroot.com/`~~
-* 苹果软件园：~~`http://www.maczapp.com`~~
-* 马可菠萝：~~`http://www.macbl.com/`~~
-* 极致分享：~~`https://alltoshare.com/`~~
-* 未来软件园：~~`http://www.orsoon.com/`~~
-* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
-* 未来软件园：~~`http://www.orsoon.com/mac/`~~
-* 威锋网：~~`https://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=`~~
-* MAC萌新网：~~`https://www.macxin.com`~~
+## Porn
+* [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
+* [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
+* [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
+* [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
+* [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
+* [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
+* [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
 
 <!--end-->
 
