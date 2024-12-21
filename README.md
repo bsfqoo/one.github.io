@@ -114,7 +114,7 @@ Awesome Mac&Windows
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
-* [青柠起始页](https://limestart.cn/)[![Freeware Icon]](163&Wu-..)
+* [青柠起始页](https://intro.limestart.cn/)[![Freeware Icon]](163&Wu-..) - 一个简洁、美观、实用的浏览器起始页。
 
 
 ## 系统&网络相关
