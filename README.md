@@ -15,6 +15,12 @@ Awesome Mac&Windows
     - [其它应用](#其它应用)
     - [Office](#office)
     - [浏览器相关](#浏览器相关)
+  - [系统\&网络相关](#系统网络相关)
+    - [WinPE](#winpe)
+    - [操作系统](#操作系统)
+    - [软路由\&NAS相关](#软路由nas相关)
+    - [科学上网](#科学上网)
+  - [Game](#game)
   - [在线资源](#在线资源)
     - [在线工具](#在线工具)
     - [免费资源](#免费资源)
@@ -23,17 +29,11 @@ Awesome Mac&Windows
     - [购物相关网站](#购物相关网站)
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
-  - [股票相关网站](#股票相关网站)
+    - [股票相关网站](#股票相关网站)
+    - [Porn](#porn)
   - [软件下载网站](#软件下载网站)
     - [正版/介绍](#正版介绍)
     - [盗版软件下载网站黑名单](#盗版软件下载网站黑名单)
-  - [网络\&系统相关](#网络系统相关)
-    - [WinPE](#winpe)
-    - [操作系统](#操作系统)
-    - [软路由\&NAS相关](#软路由nas相关)
-    - [科学上网](#科学上网)
-  - [游戏](#游戏)
-  - [Porn](#porn)
   - [License](#license)
 
 <!--start-->
@@ -77,6 +77,7 @@ Awesome Mac&Windows
 * [GKD](https://gkd.li/) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
 * [Just (Video) Player](https://github.com/moneytoo/Player) - 基于ExoPlayer库的Android视频播放器。
 * [Uotan Toolbox](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。
+* [搞机工具箱](https://jamcz.com/) - 一款利用ADB (安卓调试桥）来控制手机的玩机工具。
 
 ### 其它应用
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - 一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率。
@@ -113,129 +114,10 @@ Awesome Mac&Windows
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
-
-
-## 在线资源
-
-*一些看起来不错的网站。*
-
-### 在线工具
-* [Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
 * [青柠起始页](https://limestart.cn/)[![Freeware Icon]](163&Wu-..)
-* [中国色](http://zhongguose.com)
-* [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
-* [Сайт с рекламой](https://checkadblock.ru)
-* [I KNOW](https://iknowwhatyoudownload.com/)
-* [SimilarWeb](https://www.similarsites.com)
-* [租会员](http://www.zuxunlei.cn)
-
-### 免费资源
-* [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
-* [Alpha Coders](https://alphacoders.com/) - 一个非常不错的壁纸分享平台。
-* [wallhaven](https://wallhaven.cc/) - 一个非常不错的壁纸分享平台。
-* [Pexels](https://help.pexels.com/hc/en-us) - 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
-* [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
-* [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
-
-### 音乐播放&下载
-* [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。[![Freeware Icon]](0h6f&q1-6.)
-* [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
-* [Музыка на любой вкус](https://mp3-banana.pro/) - 俄罗斯的一个音乐下载网站， 无需任何会员，没有广告，可以在线听歌下载。
-* [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。[![Freeware Icon]](gmail&Wu-..)
-* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
-* [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
-* [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
-
-### 视频观看&下载
-* [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
-* [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
-* [TELE影院](https://tgyyvip.com) - 大片，高清正版免费在线观看！
-* [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
-* [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
-
-### 购物相关网站
-* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)
-* [中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)
-* [转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)
-
-### 资源整合网站
-* [SkrBT](https://skrbtfabu.top)
-* [iMyShare](https://imyshare.com/)
-* [LKs](https://lkssite.vip)
-* [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
-* [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
-
-### 其它乱七八糟的
-* [搞机工具箱](https://jamcz.com/) - 一款利用ADB (安卓调试桥）来控制手机的玩机工具。
-* [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
-* [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
-* [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 
 
-## 股票相关网站
-* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
-* [淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)
-* [集思录](https://www.jisilu.cn)
-* [i问财](http://www.iwencai.com)
-* [上证e互动](http://sns.sseinfo.com)
-* [深交所互动易](http://irm.cninfo.com.cn)
-* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
-* [上海证券报](https://www.cnstock.com)
-* [财联社](https://www.cls.cn)
-* [金融界](http://www.jrj.com.cn)
-* [艾瑞网](https://www.iresearch.cn)
-* [乐晴智库](http://www.767stock.com)
-* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
-* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
-* [通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
-* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
-
-
-## 软件下载网站
-
-*这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
-
-### 正版/介绍
-* [异次元](https://www.iplaysoft.com/) - 一个致力于推广各种优秀实用软件、网络资源的网站。
-* [果核剥壳](https://www.ghxi.com/) - 果核剥壳，还原软件的本质。
-* [吾爱破解](https://www.52pojie.cn/) - 如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。[![Freeware Icon]](Jiangtaooooo&Li1-1..)
-* [LRepacks](https://lrepacks.net/) - Уже более 10-ти лет я делаю для Вас и делюсь с Вами своими репаками различных программ и утилит, которые пользуются популярностью среди пользователей интернета.
-* XClient：~~`https://xclient.info/`~~
-* Digit77：~~`https://www.digit77.com`~~
-* 马可菠萝：~~`https://www.macbl.com/`~~
-* MAC萌新网：~~`https://www.macxin.com`~~
-* MacApp：~~`https://macapp.org.cn/`~~
-* 威锋网：~~`https://www.feng.com/forum/22`~~
-* AppKed：~~`http://www.macbed.com`~~
-* Mac Torrents：~~`https://www.torrentmac.net/`~~
-
-### 盗版软件下载网站黑名单
-
-*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
-
-* 玩转苹果：~~`http://www.ifunmac.com`~~
-* Mac软件下载站：~~`http://www.pshezi.com`~~
-* MacWk：~~`https://macwk.com/`~~
-* MacYY：~~`https://www.macyy.cn/`~~
-* appstorrent：~~`https://appstorrent.ru/`~~
-* appaddict：~~`https://www.appaddict.org/`~~
-* MacPeers：~~`https://www.macpeers.com`~~
-* Mac毒：~~`https://www.macdo.cn`~~
-* Macx：~~`https://www.macx.cn/`~~
-* Mac志：~~`http://www.isofts.org`~~
-* Mac软件分享：~~`http://www.waitsun.com`~~
-* MacSky苹果软件园：~~`http://www.macsky.net/`~~
-* Softasm：~~`https://softasm.com/`~~
-* Mac破解软件：~~`https://www.macappstore.net/`~~
-* 卡卡源：~~`http://www.kkroot.com/`~~
-* 苹果软件园：~~`http://www.maczapp.com`~~
-* 马可菠萝：~~`http://www.macbl.com/`~~
-* 极致分享：~~`https://alltoshare.com/`~~
-* 未来软件园：~~`http://www.orsoon.com/`~~
-* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
-
-
-## 网络&系统相关
+## 系统&网络相关
 
 ### WinPE
 * [SysRi](https://sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
@@ -320,16 +202,86 @@ Awesome Mac&Windows
 * [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 
 
-## 游戏
+## Game
 * [红警之家](http://www.uc129.com) - 提供最新红色警戒下载,包括红色警戒2共和国之辉,尤里的复仇,红色警戒3起义时刻,世界大战等。
 * [Steam](http://store.steampowered.com/) - 最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。
+* [Game Cheats Manager](https://github.com/dyang886/Game-Cheats-Manager) - 为玩家提供了一个高效管理游戏修改器的一站式解决方案。
 * [Steam数据库](https://steamdb.info) - Steam 上所有内容的数据库。
 * [Steam PY市场](https://steampy.com) - 为Steam玩家提供的游戏交易市场, 可以出售自己的Steam余额,低价购买Steam游戏,提供Steam游戏礼物代购,查询Steam余额,查看Steam额度等。
 * [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
 * [steamcommunity 302](https://www.dogfight360.com/blog/686/) - Steam加速。
 
 
-## Porn
+## 在线资源
+
+*一些看起来不错的网站。*
+
+### 在线工具
+* [Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
+* [中国色](http://zhongguose.com)
+* [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
+* [Сайт с рекламой](https://checkadblock.ru)
+* [I KNOW](https://iknowwhatyoudownload.com/)
+* [SimilarWeb](https://www.similarsites.com)
+* [租会员](http://www.zuxunlei.cn)
+
+### 免费资源
+* [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
+* [Alpha Coders](https://alphacoders.com/) - 一个非常不错的壁纸分享平台。
+* [wallhaven](https://wallhaven.cc/) - 一个非常不错的壁纸分享平台。
+* [Pexels](https://help.pexels.com/hc/en-us) - 才华横溢的摄影作者在这里免费分享最精彩的素材图片和视频。
+* [Unsplash](https://unsplash.com) - 世界上最慷慨的摄影师社区为您提供超过 300 万张免费高分辨率图像。
+* [爱给网](https://www.aigei.com) - 致力于为声音、影视、游戏、动画创作者，提供高品质、多品类、优秀的创意作品服务。
+
+### 音乐播放&下载
+* [HiFiNi](https://www.hifini.com/) - 一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助。[![Freeware Icon]](0h6f&q1-6.)
+* [OKmusi](https://apopkit.com/mp3-downloader/) - 免费简单的MP3在线下载器。
+* [Музыка на любой вкус](https://mp3-banana.pro/) - 俄罗斯的一个音乐下载网站， 无需任何会员，没有广告，可以在线听歌下载。
+* [SoundCloud](https://soundcloud.com/discover) - SoundCloud 让人们能够发现和享受来自地球上最多样化的创作者社区的精选音乐。[![Freeware Icon]](gmail&Wu-..)
+* [洛雪音乐](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron + Vue 开发的音乐软件。
+* [Listen 1](https://listen1.github.io/listen1/) - 可以搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲，让你的曲库更全面。
+* [音乐下载1](https://music.y444.cn/#/)[音乐下载2](https://tool.liumingye.cn/music/?page=searchPage#/) - 两个简单的音乐下载网站。
+
+### 视频观看&下载
+* [豌豆PRO](https://wandou.pro) - 一款影视爱好者的最佳观影平台。
+* [茶杯狐](https://cupfox.app) - 努力让找电影变得简单。
+* [TELE影院](https://tgyyvip.com) - 大片，高清正版免费在线观看！
+* [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
+* [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
+
+### 购物相关网站
+* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)
+* [中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)
+* [转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)
+
+### 资源整合网站
+* [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
+* [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
+
+### 其它乱七八糟的
+* [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
+* [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
+* [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
+
+### 股票相关网站
+* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
+* [淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)
+* [集思录](https://www.jisilu.cn)
+* [i问财](http://www.iwencai.com)
+* [上证e互动](http://sns.sseinfo.com)
+* [深交所互动易](http://irm.cninfo.com.cn)
+* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
+* [上海证券报](https://www.cnstock.com)
+* [财联社](https://www.cls.cn)
+* [金融界](http://www.jrj.com.cn)
+* [艾瑞网](https://www.iresearch.cn)
+* [乐晴智库](http://www.767stock.com)
+* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
+* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
+* [通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
+* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
+
+### Porn
 * [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
@@ -337,6 +289,50 @@ Awesome Mac&Windows
 * [xHamster](https://zh.xhamster.com/) - 互联网上历史最久的成人视频网站之一。
 * [91Porn](https://91porn.com) - 国内最大的，脱胎于Pornhub的国产情色自拍视频分享网站。
 * [草榴社區](https://t66y.com) - 幾個美國同事在美國建立的成人交流區。
+
+
+## 软件下载网站
+
+*这里主要是推荐一些软件下载的网站，还有一些软件分享网站*
+
+### 正版/介绍
+* [异次元](https://www.iplaysoft.com/) - 一个致力于推广各种优秀实用软件、网络资源的网站。
+* [果核剥壳](https://www.ghxi.com/) - 果核剥壳，还原软件的本质。
+* [吾爱破解](https://www.52pojie.cn/) - 如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。[![Freeware Icon]](Jiangtaooooo&Li1-1..)
+* [LRepacks](https://lrepacks.net/) - Уже более 10-ти лет я делаю для Вас и делюсь с Вами своими репаками различных программ и утилит, которые пользуются популярностью среди пользователей интернета.
+* XClient：~~`https://xclient.info/`~~
+* Digit77：~~`https://www.digit77.com`~~
+* 马可菠萝：~~`https://www.macbl.com/`~~
+* MAC萌新网：~~`https://www.macxin.com`~~
+* MacApp：~~`https://macapp.org.cn/`~~
+* 威锋网：~~`https://www.feng.com/forum/22`~~
+* AppKed：~~`http://www.macbed.com`~~
+* Mac Torrents：~~`https://www.torrentmac.net/`~~
+
+### 盗版软件下载网站黑名单
+
+*上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
+
+* 玩转苹果：~~`http://www.ifunmac.com`~~
+* Mac软件下载站：~~`http://www.pshezi.com`~~
+* MacWk：~~`https://macwk.com/`~~
+* MacYY：~~`https://www.macyy.cn/`~~
+* appstorrent：~~`https://appstorrent.ru/`~~
+* appaddict：~~`https://www.appaddict.org/`~~
+* MacPeers：~~`https://www.macpeers.com`~~
+* Mac毒：~~`https://www.macdo.cn`~~
+* Macx：~~`https://www.macx.cn/`~~
+* Mac志：~~`http://www.isofts.org`~~
+* Mac软件分享：~~`http://www.waitsun.com`~~
+* MacSky苹果软件园：~~`http://www.macsky.net/`~~
+* Softasm：~~`https://softasm.com/`~~
+* Mac破解软件：~~`https://www.macappstore.net/`~~
+* 卡卡源：~~`http://www.kkroot.com/`~~
+* 苹果软件园：~~`http://www.maczapp.com`~~
+* 马可菠萝：~~`http://www.macbl.com/`~~
+* 极致分享：~~`https://alltoshare.com/`~~
+* 未来软件园：~~`http://www.orsoon.com/`~~
+* 腾牛网：~~`http://www.qqtn.com/mac/r_17_1.html`~~
 
 
 <!--end-->
