@@ -77,7 +77,7 @@ Awesome Mac&Windows
 * [GKD](https://gkd.li/) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
 * [Just (Video) Player](https://github.com/moneytoo/Player) - 基于ExoPlayer库的Android视频播放器。
 * [Uotan Toolbox](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。
-* [搞机工具箱](https://jamcz.com/) - 一款利用ADB (安卓调试桥）来控制手机的玩机工具。
+* [搞机工具箱](https://jamcz.com/) - 一款利用ADB（安卓调试桥）来控制手机的玩机工具。
 
 ### 其它应用
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - 一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率。
@@ -114,7 +114,7 @@ Awesome Mac&Windows
 * [Greasy Fork](https://greasyfork.org/zh-CN) - 一个提供用户脚本的网站。
 * [Sleazy Fork](https://sleazyfork.org/zh-CN) - 一个提供成人用户脚本的网站。
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
-* [青柠起始页](https://intro.limestart.cn/)[![Freeware Icon]](163&Wu-..) - 一个简洁、美观、实用的浏览器起始页。
+* [青柠起始页](https://intro.limestart.cn/) - 一个简洁、美观、实用的浏览器起始页。[![Freeware Icon]](163&Wu-..)
 
 
 ## 系统&网络相关
@@ -161,14 +161,14 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
-* [TWM000](https://twm000.top) - TWM000。[网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html)
+* [TWM000](https://twm000.top) - TWM000([网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html))。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
 * [远航技术](https://www.far123.com/) - 主要用来和大家分享优秀软件及电脑技巧。
 * [极简系统](https://www.sysmini.com) - 极简系统从2015年到现在，转眼已经走过6个年头。
 * [小小系统迷](http://www.ilovext.com) - 专注提供纯净版系统和绿色软件的网站！
-* [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载。)。
+* [爱纯净](http://www.aichunjing.com/jhgj1/) - 爱纯净系统(包含激活工具下载)。
 * [AtlasOS](https://atlasos.net) - 一个开放的Windows操作系统，旨在优化性能和延迟。
 * [Windsys Project](https://windsys.win) - 也许是最适合年轻人使用的第三方社区系统。
 * [系统下载吧](http://xtxzb.com) - WinXP、Win7、Win10、Win11。
