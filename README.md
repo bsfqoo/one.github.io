@@ -123,7 +123,7 @@ Awesome Mac&Windows
 * [SysRi](https://sysri.cn/) - 一个纯净、强大、易用的系统重装工具。
 * [Ventoy](https://www.ventoy.net/cn/index.html) - 一款开源免费的多合一系统安装启动盘制作工具。[![Open-Source Software][OSS Icon]](https://github.com/ventoy/Ventoy/releases)
 * [PE测试列表](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426217&extra=page%3D1) - Ventoy PE测试列表（同时收集启动有问题的PE）。[![Freeware Icon]](bsfqoo&Li-..)
-* [微PE工具箱](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
+* [WePE](https://www.wepe.com.cn) - 一款纯净无广告无软件植入的绿色好用的 WinPE 系统维护工具。
 * [FirPE](https://firpe.cn) - 也许是最适合年轻人使用的第三方WinPE~。
 * [USBOS](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=349965) - USBOS。
 * [雷电PE](http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252) - Lightning PE。
@@ -264,21 +264,11 @@ Awesome Mac&Windows
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 
 ### 股票相关网站
-* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)
-* [淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)
-* [集思录](https://www.jisilu.cn)
-* [i问财](http://www.iwencai.com)
-* [上证e互动](http://sns.sseinfo.com)
-* [深交所互动易](http://irm.cninfo.com.cn)
-* [巨潮资讯网](http://www.cninfo.com.cn/new/index)
-* [上海证券报](https://www.cnstock.com)
-* [财联社](https://www.cls.cn)
-* [金融界](http://www.jrj.com.cn)
-* [艾瑞网](https://www.iresearch.cn)
-* [乐晴智库](http://www.767stock.com)
-* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)
-* [同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)
-* [通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
+* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.).[淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.).[集思录](https://www.jisilu.cn)
+* [上证e互动](http://sns.sseinfo.com).[深交所互动易](http://irm.cninfo.com.cn).[巨潮资讯网](http://www.cninfo.com.cn/new/index)
+* [上海证券报](https://www.cnstock.com).[财联社](https://www.cls.cn).[金融界](http://www.jrj.com.cn)
+* [艾瑞网](https://www.iresearch.cn).[乐晴智库](http://www.767stock.com)
+* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.).[同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6).[通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
 * [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
 
 ### Porn
