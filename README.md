@@ -134,7 +134,7 @@ Awesome Mac&Windows
 * [CmdPe](https://www.cmdpe.com) - 可以上网，可以下载，可以远程，纯净无捆绑，无需任何设置，进桌面即可连网，支持有线+Wifi连网。[![Freeware Icon]](754860900&188889686&2418287764&437356033&760862083&10832088&8127087)
 * [Dawn PE & Pure PE](https://www.dawnpe.com/) - 由晨云网络倾力打造的一款预安装 PE 环境，结合广大电脑爱好者的需求，操作简单，功能强大，兼容性强。
 * [HotPE](https://www.hotpe.top/) - 一个纯净、强大、优雅的PE工具箱。
-* [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 含多种介质启动方式；多种启动软件启动方式；多种应用模式分层加载，附加层：用户自定制层，进入桌面后可按需升级或降级应用层次。应用超多，体积巨大，确是一艘PE航母！
+* [H3PE](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573) - 应用超多，体积巨大，确是一艘PE航母！
 * [金狐系统维护盘](http://www.jinhu.me/default.asp?cateID=6) - 相伴十四载！感谢有你！
 * [优启时代](https://www.uqiba.com/) [存档](http://jhsoft.ysepan.com/) - USB启动技术分享。
 * [杏雨梨云](https://www.xyboot.com/) - 杏雨梨云启动维护系统。
@@ -216,7 +216,7 @@ Awesome Mac&Windows
 ### 在线工具
 * [中国色](http://zhongguose.com) - 中国传统颜色。
 * [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
-* [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站.
+* [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站。
 * [SimilarWeb](https://www.similarsites.com) - 使用 Similarsites.com（可让您浏览相关内容的扩展程序）发现最佳网站并探索竞争对手和相关网站。
 * [租会员](http://www.zuxunlei.cn) - 迅雷、百度优、酷账号租用。
 
@@ -251,7 +251,7 @@ Awesome Mac&Windows
 ### 其它乱七八糟的
 * [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
-* [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
+* [电商视频学习论坛](http://www.jcxxzj.com) - 专注淘宝电商教程，免费更新，教程高清。[![Freeware Icon]](QQ登陆)
 
 ### 购物相关网站
 * [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)、
