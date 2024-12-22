@@ -26,9 +26,9 @@ Awesome Mac&Windows
     - [免费资源](#免费资源)
     - [音乐播放\&下载](#音乐播放下载)
     - [视频观看\&下载](#视频观看下载)
-    - [购物相关网站](#购物相关网站)
     - [资源整合网站](#资源整合网站)
     - [其它乱七八糟的](#其它乱七八糟的)
+    - [购物相关网站](#购物相关网站)
     - [股票相关网站](#股票相关网站)
     - [Porn](#porn)
   - [软件下载网站](#软件下载网站)
@@ -80,6 +80,8 @@ Awesome Mac&Windows
 * [搞机工具箱](https://jamcz.com/) - 一款利用ADB（安卓调试桥）来控制手机的玩机工具。
 
 ### 其它应用
+* [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。
+* [Deskflow](https://github.com/deskflow/deskflow) - 可让您在 Windows、macOS 和 Linux 上的多台计算机之间共享一个鼠标和键盘。
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor) - 一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率。
 * [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu) - 一组实用程序，为 Windows 带来经典功能。
 * [Zen](https://github.com/anfragment/zen) - 适用于 Windows、macOS 和 Linux 的开源系统级广告拦截器和隐私保护器。
@@ -161,7 +163,7 @@ Awesome Mac&Windows
 * [系统库](https://www.xitongku.com) - 一个提供MSDN原版系统和安装教程的网站，附带各种原版office。
 * [山己几子木](https://msdn.sjjzm.com) - 把镜像文件中所有版本列出，并将镜像文件名称以中文显示。
 * [ITELLYOU](https://next.itellyou.cn)([旧](https://msdn.itellyou.cn)) - 提供可靠的原版软件。
-* [TWM000](https://twm000.top) - TWM000([网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html))。
+* [TWM000](https://twm000.top) - TWM000[[网盘链接](https://www.123pan.com/s/zX5A-o9DWd.html)]。
 * [Puresys](https://www.puresys.net) - 以纯净为第一要义，为广大网友提供一个便捷、安全的下载站(包含PE下载)。
 * [吻妻系统](https://www.newxitong.com/) - 一如既往的品质，不流氓，不欺骗，不夸大！一直在改进，只为做得更好！万千用户的信赖，吻妻的品质保证！
 * [宋永志博客 - 系统爱好者](http://www.songyongzhi.com) - 宋永志博客，知名系统下载站。
@@ -178,28 +180,23 @@ Awesome Mac&Windows
 * [macOS系统下载](https://www.applex.net/pages/macos/)[![Freeware Icon]](wjtao1993&q1-6.)
 
 ### 软路由&NAS相关
+* [WebUI-Aria2](https://github.com/ziahamza/webui-aria2) - 该项目的目标是创建世界上最好的、最热门的 aria2 交互界面。
 * [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
-* [恩山无线论坛](https://www.right.com.cn/forum/) - [![Freeware Icon]](bsfqoo&Wu-..)
-* [3322域名](http://www.pubyun.com/accounts/signin/) - [![Freeware Icon]](wjtao1993&Wu-..)
-* [群晖的RAID类型：basic、shr、raid1、jbod、raid0、raid5](https://blog.csdn.net/qq_41911582/article/details/107537289)
-* [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)
-* [黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)
-* [黑群晖DSM安装教程及详细配置](https://blog.csdn.net/was172/article/details/106176930/)
-* [PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)
-* [群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)
+* [恩山无线论坛](https://www.right.com.cn/forum/) - 恩山无线论坛。[![Freeware Icon]](bsfqoo&Wu-..)
+* [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
+
+*黑群晖相关*
+* [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)、[黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)、[黑群晖DSM安装教程及详细配置](https://blog.csdn.net/was172/article/details/106176930/)、[PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)、[群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)、
 
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
-* [Quantumult X Wiki Book](https://qx.atlucky.me/) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
-* [查看我的IP地址](https://ip.skk.moe/) - 全方位查看我的IP地址。
-* [IP地址查询](http://www.ip111.cn/) - 查询您的IP地址。
-* [GCPing](https://gcping.com/) - GCPing。
-* [Lantern](https://lantern.io) - 科学上网。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - 一款 ShadowsocksX 客户端软件。[![Open-Source Software][OSS Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG) ![Freeware][Freeware Icon]
-* [ClashX](https://github.com/yichengchen/clashX) - ClashX。
-* [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) - ClashX Pro。
-* [Clash for Windows Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese) - Clash for Windows Chinese。
-* [V2Ray](https://www.v2ray.com/) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+* [查看我的IP地址](https://ip.skk.moe/) - 查找您的 IP 地址、本地 DNS 设置、网络连接、CDN 可用性等。
+* [IP地址查询](http://www.ip111.cn/) - 全方位查询您的IP地址。
+* [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
+* [Quantumult X推荐配置](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
+* [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
+* [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
+* [Clash for Windows Chinese](https://github.com/yichengchen/clashX) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
 
 
 ## Game
@@ -217,13 +214,11 @@ Awesome Mac&Windows
 *一些看起来不错的网站。*
 
 ### 在线工具
-* [Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
-* [中国色](http://zhongguose.com)
+* [中国色](http://zhongguose.com) - 中国传统颜色。
 * [FlightAware](https://zh.flightaware.com) - 全球实时航班交通。
-* [Сайт с рекламой](https://checkadblock.ru)
-* [I KNOW](https://iknowwhatyoudownload.com/)
-* [SimilarWeb](https://www.similarsites.com)
-* [租会员](http://www.zuxunlei.cn)
+* [Сайт с рекламой](https://checkadblock.ru) - 带有检查拦截器广告的网站.
+* [SimilarWeb](https://www.similarsites.com) - 使用 Similarsites.com（可让您浏览相关内容的扩展程序）发现最佳网站并探索竞争对手和相关网站。
+* [租会员](http://www.zuxunlei.cn) - 迅雷、百度优、酷账号租用。
 
 ### 免费资源
 * [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - 一个免费的在线图书馆。
@@ -249,30 +244,29 @@ Awesome Mac&Windows
 * [蛋蛋赞影院](https://www.dandanzan10.top) - 蛋蛋赞影院。
 * [M-Team - TP](https://kp.m-team.cc/login.php)[![Freeware Icon]](bsfqoo&Wu-..) - PT下载站。
 
-### 购物相关网站
-* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)
-* [中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)
-* [转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)
-
 ### 资源整合网站
-* [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home)
 * [爱达杂货铺](https://adzhp.net/) - 一个收集各类网络资源的站点,创建于2017年12月21日。
+* [聚BT](https://jubt.top/)[地址发布页](https://gitlab.com/jubt/home) - 聚合最优质的BT、磁力资源。
 
 ### 其它乱七八糟的
 * [全历史](https://www.allhistory.com/) - 以AI知识图谱为核心引擎,通过高度时空化、关联化数据的方式构造及展现数字人文内容,尤其是历史知识。
 * [A+医学百科](http://www.a-hospital.com) - 一个开放的在线医学百科全书网站。
 * [电商视频学习论坛](http://www.jcxxzj.com)[![Freeware Icon]](QQ登陆)
 
+### 购物相关网站
+* [日亚](https://www.amazon.co.jp)[![Freeware Icon]](gmail&Wu-..)、[中邮海外购](https://buy.ems.com.cn)[![Freeware Icon]](手机&Wu82-39.)、[转运四方](http://www.transrush.com)[![Freeware Icon]](手机&q1-6.)、
+
 ### 股票相关网站
-* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.).[淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.).[集思录](https://www.jisilu.cn)
-* [上证e互动](http://sns.sseinfo.com).[深交所互动易](http://irm.cninfo.com.cn).[巨潮资讯网](http://www.cninfo.com.cn/new/index)
-* [上海证券报](https://www.cnstock.com).[财联社](https://www.cls.cn).[金融界](http://www.jrj.com.cn)
-* [艾瑞网](https://www.iresearch.cn).[乐晴智库](http://www.767stock.com)
-* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.).[同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6).[通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)
-* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)
+* [海风股票论坛](http://www.96bbs.com)[![Freeware Icon]](wjtao1993&bsfqoo&q1-6.)、[淘股吧](https://www.taoguba.com.cn/)[![Freeware Icon]](手机&q1-6.)、[集思录](https://www.jisilu.cn)、
+* [上证e互动](http://sns.sseinfo.com)、[深交所互动易](http://irm.cninfo.com.cn)、[巨潮资讯网](http://www.cninfo.com.cn/new/index)、
+* [上海证券报](https://www.cnstock.com)、[财联社](https://www.cls.cn)、[金融界](http://www.jrj.com.cn)、
+* [艾瑞网](https://www.iresearch.cn)、[乐晴智库](http://www.767stock.com)、
+* [东方财富](https://www.eastmoney.com)[![Freeware Icon]](手机&q1-6.)、[同花顺](https://www.10jqka.com.cn)[![Freeware Icon]](wj-93&q1-6)、[通达信](https://www.tdx.com.cn/)[![Freeware Icon]](手机&q1-6.)、
+* [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)、
 
 ### Porn
 * [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
+* [ThisAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
 * [XVideos](https://www.xvideos.com) - 全球访问量最大的色情网站。[![Freeware Icon]](gmail&Wu-..)
 * [Pornhub](https://www.pornhub.com) - 仅次于XVideos的第二大成人网站。[![Freeware Icon]](bsfq&q1-6.)
