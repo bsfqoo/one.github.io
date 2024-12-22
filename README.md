@@ -281,7 +281,8 @@ Awesome Mac&Windows
 
 ### 正版/介绍
 * [异次元](https://www.iplaysoft.com/) - 一个致力于推广各种优秀实用软件、网络资源的网站。
-* [果核剥壳](https://www.ghxi.com/) - 果核剥壳，还原软件的本质。
+* [易破解](https://www.ypojie.com/) - 致力于为广大的网友提供绿色资源，经验技术分享。
+* [果核剥壳](https://www.ghxi.com/) - 果核剥壳，还原软件的本质。[![Freeware Icon]](163&Wu-..)
 * [吾爱破解](https://www.52pojie.cn/) - 如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。[![Freeware Icon]](Jiangtaooooo&Li1-1..)
 * [LRepacks](https://lrepacks.net/) - Уже более 10-ти лет я делаю для Вас и делюсь с Вами своими репаками различных программ и утилит, которые пользуются популярностью среди пользователей интернета.
 * XClient：~~`https://xclient.info/`~~
