@@ -15,12 +15,12 @@ Awesome Mac&Windows
     - [其它应用](#其它应用)
     - [Office](#office)
     - [浏览器相关](#浏览器相关)
+    - [Game](#game)
   - [系统\&网络相关](#系统网络相关)
     - [WinPE](#winpe)
     - [操作系统](#操作系统)
     - [软路由\&NAS相关](#软路由nas相关)
     - [科学上网](#科学上网)
-  - [Game](#game)
   - [在线资源](#在线资源)
     - [在线工具](#在线工具)
     - [免费资源](#免费资源)
@@ -59,6 +59,7 @@ Awesome Mac&Windows
 * [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 用于Microsoft Windows平台的磁盘空间分析。
+* [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - 用于激活和重置Internet Download Manager试用版的开源工具。
 
 *Mac必备应用*
 
@@ -86,6 +87,7 @@ Awesome Mac&Windows
 * [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu) - 一组实用程序，为 Windows 带来经典功能。
 * [Zen](https://github.com/anfragment/zen) - 适用于 Windows、macOS 和 Linux 的开源系统级广告拦截器和隐私保护器。
 * [Free Audio Video Pack](https://www.pazera-software.com/products/free-audio-video-pack/) - 一组便携式音频和视频转换器，可帮助您在所有最流行的音频和视频格式之间进行转换。
+* [FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch?tab=readme-ov-file) - 一个 ffmepg gui，提供了基本的视频音频转换功能。
 * [Mp3tag](https://www.mp3tag.de/index.html) - 一个功能强大且易于使用的工具，用于编辑音频文件的元数据。[![App Store][app-store Icon]](https://apps.apple.com/app/id1532597159/)
 * [K-Lite Codec Pack](https://www.codecguide.com) - 您提供绝大多数影音格式的解码器，装了它，您的播放器就可以通吃绝大多数的影音格式。
 * [完美解码](https://jm.wmzhe.com) - 一款为众多影视发烧友精心打造的专业高清播放器。
@@ -118,6 +120,16 @@ Awesome Mac&Windows
 * [水平分隔符](https://separator.mayastudios.com/index.php?t=horz) - 书签文件夹水平分隔符。
 * [青柠起始页](https://intro.limestart.cn/) - 一个简洁、美观、实用的浏览器起始页。[![Freeware Icon]](163&Wu-..)
 
+### Game
+* [红警之家](http://www.uc129.com) - 提供最新红色警戒下载,包括红色警戒2共和国之辉,尤里的复仇,红色警戒3起义时刻,世界大战等。
+* [Steam](http://store.steampowered.com/) - 最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。
+* [Game Cheats Manager](https://github.com/dyang886/Game-Cheats-Manager) - 为玩家提供了一个高效管理游戏修改器的一站式解决方案。
+* [Steam数据库](https://steamdb.info) - Steam 上所有内容的数据库。
+* [Steam PY市场](https://steampy.com) - 为Steam玩家提供的游戏交易市场, 可以出售自己的Steam余额,低价购买Steam游戏,提供Steam游戏礼物代购,查询Steam余额,查看Steam额度等。
+* [UsbEAm Hosts Editor](https://www.dogfight360.com/blog/475/) - 多平台hosts修改。
+* [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
+* [开发者边车](https://github.com/docmirror/dev-sidecar?tab=readme-ov-file) - github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速。
+
 
 ## 系统&网络相关
 
@@ -146,7 +158,7 @@ Awesome Mac&Windows
 *Windows设置&激活*
 
 * [[微零微]-Windows/Office全系列激活教程](https://jihuowin.com/index.php) - Windows系统一句命令激活[永久]。
-* [Microsoft 激活脚本 (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) - 开源 Windows 和 Office 激活器，具有 HWID、Ohook、KMS38 和在线 KMS 激活方法以及高级故障排除功能。
+* [Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) - 开源 Windows 和 Office 激活器，具有 HWID、Ohook、KMS38 和在线 KMS 激活方法以及高级故障排除功能。
 * [云萌 Windows 10+ 激活工具](https://cmwtat.cloudmoe.com/cn.html) - 支持 Windows 10 和 Windows 11 (x86/x64/ARM64)，最早发布版本构建于2017年1月。
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 包含几乎所有激活方式，具有易操作的GUI窗口。
 * [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - 专注于KMS激活，是一个批处理程序。
@@ -184,6 +196,7 @@ Awesome Mac&Windows
 * [小雅媒体库](https://fuliapp.top/) - 本项目支持AppleTV，安卓TV(智能电视)，手机，平板，电脑等所有平台，不需要科学。
 * [恩山无线论坛](https://www.right.com.cn/forum/) - 恩山无线论坛。[![Freeware Icon]](bsfqoo&Wu-..)
 * [3322域名](http://www.pubyun.com/accounts/signin/) - （简称3322动态域名）是专业的互联网服务提供商。[![Freeware Icon]](wjtao1993&Wu-..)
+* [N1盒子](https://github.com/wxfyes/N1packaging) - 基于flippy的打包Phicomm N1的openwrt。
 
 *黑群晖相关*
 * [手把手教您安装黑群晖918+ 6.2保姆级教程，含群晖设置。](https://post.smzdm.com/p/aqx07xmk/)、[黑群晖二合一镜像（6.2.3 和 6.1.7）设置向导、分区自动扩容](https://www.ruoyer.com/dsm2in1.html)、[黑群晖DSM安装教程及详细配置](https://blog.csdn.net/was172/article/details/106176930/)、[PT站抢种神器-qBittorrent群晖NAS安装教程](http://www.ptyqm.com/27515.html)、[群晖NAS安装Transmission以及配置Transmission Web UI](http://www.511yj.com/nas-synology-transmission.html)、
@@ -194,19 +207,13 @@ Awesome Mac&Windows
 * [IP地址查询](http://www.ip111.cn/) - 全方位查询您的IP地址。
 * [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
 * [Quantumult X推荐配置](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
+    * 其它配置 - [墨鱼配置](https://github.com/ddgksf2013/ddgksf2013)、[张军配置](https://github.com/fmz200/wool_scripts)、[Orz-3配置](https://github.com/Orz-3/QuantumultX)、[deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)、[dishao123](https://github.com/dishao123/rules_script)、[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
+    * [Shadowrocket 规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。
+    * GeoIP2 数据库 - [Hackl0us](https://github.com/Hackl0us/GeoIP2-CN)、[soffchen](https://github.com/soffchen/GeoIP2-CN)、
 * [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 * [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
-* [Clash for Windows Chinese](https://github.com/yichengchen/clashX) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
-
-
-## Game
-* [红警之家](http://www.uc129.com) - 提供最新红色警戒下载,包括红色警戒2共和国之辉,尤里的复仇,红色警戒3起义时刻,世界大战等。
-* [Steam](http://store.steampowered.com/) - 最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。
-* [Game Cheats Manager](https://github.com/dyang886/Game-Cheats-Manager) - 为玩家提供了一个高效管理游戏修改器的一站式解决方案。
-* [Steam数据库](https://steamdb.info) - Steam 上所有内容的数据库。
-* [Steam PY市场](https://steampy.com) - 为Steam玩家提供的游戏交易市场, 可以出售自己的Steam余额,低价购买Steam游戏,提供Steam游戏礼物代购,查询Steam余额,查看Steam额度等。
-* [Watt Toolkit](https://github.com/BeyondDimension/SteamTools) - 原名 Steam++，是一个开源跨平台的多功能 Steam 工具箱。
-* [steamcommunity 302](https://www.dogfight360.com/blog/686/) - Steam加速。
+* [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代 ShadowsocksX。
 
 
 ## 在线资源
