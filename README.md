@@ -203,18 +203,32 @@ Awesome Mac&Windows
 
 ### 科学上网
 * [DuyaoSS](https://www.duyaoss.com) - 机场测速和简介。
-* [查看我的IP地址](https://ip.skk.moe/) - 查找您的 IP 地址、本地 DNS 设置、网络连接、CDN 可用性等。
 * [IP地址查询](http://www.ip111.cn/) - 全方位查询您的IP地址。
+* [查看我的IP地址](https://ip.skk.moe/) - 查找您的 IP 地址、本地 DNS 设置、网络连接、CDN 可用性等。
+* [实时代理和 VPN 检测](https://proxy.incolumitas.com/proxy_detect.html) - 该网站可以检测您的连接是否正在使用代理或 VPN。
+* [Ping0](https://ping0.cc/) - 其它网站识别的是IP所有者的类型，Ping0 识别的是IP实际用在哪里，独家数据，是目前唯一一个识别实际使用者的网站。
 * [GCPing](https://gcping.com/) - 用于向 Google Cloud 区域报告平均延迟时间。
-* [Quantumult X推荐配置](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X（后面简称QX）教程中的相关内容整理而成。
-    * 其它配置 - [墨鱼配置](https://github.com/ddgksf2013/ddgksf2013)、[张军配置](https://github.com/fmz200/wool_scripts)、[Orz-3配置](https://github.com/Orz-3/QuantumultX)、[deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)、[dishao123](https://github.com/dishao123/rules_script)、[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
-    * [Shadowrocket 规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。
-    * GeoIP2 数据库 - [Hackl0us](https://github.com/Hackl0us/GeoIP2-CN)、[soffchen](https://github.com/soffchen/GeoIP2-CN)、
-* [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 * [Lantern](https://lantern.io) - 快速且不受限制地访问您喜爱的网站和应用程序。[![Open-Source Software][OSS Icon]](https://github.com/getlantern/lantern) ![Freeware][Freeware Icon]
 * [Clash for Windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - 提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序。
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 下一代 ShadowsocksX。
+* [V2Ray神一样的工具们](https://www.v2ray.com/awesome/tools.html) - 原生支持 Socks、HTTP、Shadowsocks、VMess 等协议。
 
+*配置文件*
+* [Shadowrocket 规则](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。
+* [Quantumult X Wiki Book](https://qx.atlucky.me/shi-yong-fang-fa/tui-jian-pei-zhi) - 汇聚了目前网络上的一些现有的Quantumult X教程中的相关内容整理而成。
+    * 其它配置 - [Orz-3](https://github.com/Orz-3/QuantumultX)、[dishao123](https://github.com/dishao123/rules_script)、[Quantumult X 资源解析器](https://github.com/KOP-XIAO/QuantumultX)、
+
+* [Surge 入门指南](https://wiki.surge.community/) - 汇聚了目前网络上的一些现有的Surge教程。
+    * 其它配置 - [深巷有喵](https://github.com/Rabbit-Spec/Surge)、[Ling KeQing](https://surge.qingr.moe/)、
+
+* [一些合集] - [莫离](https://github.com/Moli-X/Resources)、[墨鱼](https://github.com/ddgksf2013/ddgksf2013)、[奶思](https://github.com/fmz200/wool_scripts)、[毒奶](https://github.com/limbopro)、[yfamily](https://github.com/deezertidal)、[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、
+  
+*其它工具*
+* [BoxJs](https://docs.boxjs.app/) - BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本！
+* [Sub-Store](https://github.com/sub-store-org/Sub-Store) - QX、Loon、Surge、Stash、Egern 和 Shadowrocket 的高级订阅管理器。
+* [Script Hub](https://github.com/Script-Hub-Org/Script-Hub) - 适用于 QX、Loon、Surge、Stash、Egern、LanceX 和 Shadowrocket 的高级脚本转换器 - 重写 & 规则集转换。
+* [EMOJIALL](https://www.emojiall.com/) - 该网站提供了最新、完整的Emoji搜索和相关信息。
+  
 
 ## 在线资源
 
@@ -272,6 +286,7 @@ Awesome Mac&Windows
 * [中国结算](https://inv.chinaclear.cn)[![Freeware Icon]](手机&q1-6.)、
 
 ### Porn
+* [Mov18plus](https://krx18.com/) - 免費高清韩国电影在线看，无需下载。
 * [MISSAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [ThisAV](https://missav.com/) - 免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片。
 * [Porn Dude](https://theporndude.com/zh) - 世界上最好的色情网站目录！
