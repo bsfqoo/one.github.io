@@ -224,6 +224,7 @@ Awesome Mac&Windows
 * [一些合集] - [莫离](https://github.com/Moli-X/Resources)、[墨鱼](https://github.com/ddgksf2013/ddgksf2013)、[奶思](https://github.com/fmz200/wool_scripts)、[毒奶](https://github.com/limbopro)、[yfamily](https://github.com/deezertidal)、[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、
   
 *其它工具*
+* [Lucky爱分享](https://www.evan888.top/2062/) - BoxJs-Script-Hub-Sub-Store-等模块通用的前置教程。
 * [BoxJs](https://docs.boxjs.app/) - BoxJs 是一款运行在 Surge、Quantumult X、Loon、Shadowrocket、Stash 环境下的脚本！
 * [Sub-Store](https://github.com/sub-store-org/Sub-Store) - QX、Loon、Surge、Stash、Egern 和 Shadowrocket 的高级订阅管理器。
 * [Script Hub](https://github.com/Script-Hub-Org/Script-Hub) - 适用于 QX、Loon、Surge、Stash、Egern、LanceX 和 Shadowrocket 的高级脚本转换器 - 重写 & 规则集转换。
