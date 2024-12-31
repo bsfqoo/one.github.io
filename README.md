@@ -45,9 +45,11 @@ Awesome Mac&Windows
 
 *Windows必备应用*
 
+* [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [foobar2000(汉化)](https://www.cnblogs.com/asionwu) - 一个 Windows 平台下的高级音频播放器。
 * [foobox](https://github.com/dream7180/foobox-cn) - 一个 foobar2000 默认用户界面 (DUI) 的皮肤配置。
 * [MPC-HC](https://github.com/clsid2/mpc-hc) - 一款适用于 Windows 的免费开源视频和音频播放器。
+* [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - 用于激活和重置Internet Download Manager试用版的开源工具。
 * [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 * [QuickLook](https://github.com/QL-Win/QuickLook) - 快速浏览(为 Windows 带来 macOS 的“快速查看”功能。)
 * [Wox](http://www.wox.one/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
@@ -56,10 +58,14 @@ Awesome Mac&Windows
 * [Quicker](https://getquicker.net/) - 一个 “超级” 启动器 它不仅用可以帮您打开软件或文件, 更重要的是可以启动各类“操作”。
 * [Snipaste](https://zh.snipaste.com/) - 一款效率极高、功能非常丰富的截图+贴图小工具。
 * [Honeyview](https://cn.bandisoft.com/honeyview/) - 一款快速的图片查看器。 ![Freeware][Freeware Icon]
-* [7-Zip](https://www.7-zip.org) - 一款拥有极高压缩比的开源压缩软件。 ![Open-Source Software][OSS Icon]
 * [Rufus](https://rufus.ie/zh/) - 一个帮助格式化和创建可启动USB闪存驱动器的工具。
+* [UltraISO](https://www.ultraiso.com/) - 一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具。
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) - 用于Microsoft Windows平台的磁盘空间分析。
-* [IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - 用于激活和重置Internet Download Manager试用版的开源工具。
+* [WizTree](https://diskanalyzer.com/) - 一款适用于 Windows 的超高速磁盘空间分析器实用程序。
+* [TreeSize](https://treesize.net/) - 一款功能强大的 Windows 磁盘管理工具。
+* [Geek Uninstaller](https://geekuninstaller.com/) - 一个简单但功能强大且快速的实用程序。
+* [HiBit Uninstaller](https://www.hibitsoft.ir/Uninstaller.html) - 彻底卸载顽固软件、Windows 应用程序和浏览器扩展。
+* [Total Uninstall](https://www.martau.com/zh-CN/) - 一款包含两个工作模块的全能卸载工具。
 
 *Mac必备应用*
 
@@ -77,6 +83,7 @@ Awesome Mac&Windows
 *Android应用*
 * [GKD](https://gkd.li/) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 APP。
 * [Just (Video) Player](https://github.com/moneytoo/Player) - 基于ExoPlayer库的Android视频播放器。
+* [QtScrcpy](https://github.com/barry-ran/QtScrcpy?tab=readme-ov-file) - Android实时显示控制软件。
 * [Uotan Toolbox](https://github.com/Uotan-Dev/UotanToolboxNT) - 为玩机发烧友而生的全新现代化工具箱。
 * [搞机工具箱](https://jamcz.com/) - 一款利用ADB（安卓调试桥）来控制手机的玩机工具。
 
@@ -165,6 +172,7 @@ Awesome Mac&Windows
 * [Windows 11 轻松设置](https://bbs.pcbeta.com/viewthread-1972024-1-1.html) - 原贴作者提供的网盘下载链接[百度网盘](https://pan.baidu.com/s/1fpm4nmCKeELmwKdSpxny1g?pwd=yb6d)&[123云盘](https://www.123pan.com/s/1Zj8Vv-8bbcv.html)[![Freeware Icon]](8888)。
 * [小鱼儿yr系统封装优化设置辅助工具](https://www.yrxitong.com/h-nd-100.html) - 小鱼儿yr经过长期的学习总结和实践应用而写出来的一款小巧的优化设置辅助工具，绿色无污染。(包含系统，软件下载)。
 * [Defender Remover](https://github.com/ionuttbara/windows-defender-remover) - 用于删除 Windows 8.x、Windows 10（所有版本）和 Windows 11 中的 Windows Defender 的工具。
+* [Optimizer](https://github.com/hellzerg/optimizer) - 最好的 Windows 开源优化器。
 * [简化您的计算机使用](https://www.sordum.org/) - 简化您的计算机使用。
 * [Программы для MS Windows и Office](https://msfree.su/index.php?forums/32/) - 多款激活程序，来自俄罗斯的@Ratiborus，各种激活方式都有，常见的工具：AAct、KMS Tools Portable、W10 Digital Activation Program、KMSAuto++等。
 
